@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clickable="true"
+    tools:context="co.com.lafemmeapp.lafemmeapp.presentation.select_specialist_user.SelectSpecialistUserFragment">
+
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:gravity="center"
+        android:text="@string/choose_specialist_label"
+        android:textColor="@color/greyishBrown"
+        android:textSize="18sp" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:id="@+id/rv_specialist_user"
+        android:layout_above="@+id/btn_random_specialist"
+        android:layout_height="wrap_content"
+        tools:listitem="@layout/specialist_user_item"
+        android:layout_below="@+id/tv_title"
+        android:padding="16dp" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pb_specialist"
+        android:visibility="visible"
+        android:layout_centerInParent="true" />
+
+    <Button
+        android:id="@+id/btn_random_specialist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/tertiary_button_rounded_background"
+        android:padding="8dp"
+        android:text="@string/random_specialist_label"
+        android:textColor="@color/colorAccent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="40dp"
+        android:id="@+id/ly_no_specialist"
+        android:visibility="gone"
+        android:layout_marginTop="10dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/sorry_label"
+            android:textColor="@color/warmGrey"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/there_are_not_specialist_for_the_request_services_error_label"
+            android:textColor="@color/warmGrey"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

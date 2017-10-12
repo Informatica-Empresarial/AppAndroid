@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/iv_avatar"
+        android:layout_width="90dp"
+        android:layout_marginTop="15dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic_person"
+        app:civ_border_width="0dp" />
+
+
+    <TextView
+        android:id="@+id/tv_rate_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/rate_service_label"
+        android:textColor="@color/greyishBrownThree"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_rate_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text=""
+        android:textColor="@color/greyishBrownThree"
+        android:textSize="14sp" />
+
+
+    <me.zhanghai.android.materialratingbar.MaterialRatingBar
+        android:id="@+id/rb_appointment_rate"
+        style="@style/Widget.MaterialRatingBar.RatingBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:isIndicator="false"
+        android:max="5"
+        android:maxHeight="40dp"
+        android:maxWidth="40dp"
+        android:minHeight="40dp"
+        android:minWidth="40dp"
+        android:numStars="5"
+        android:stepSize="1"
+        android:theme="@style/RatingBarTheme" />
+
+    <ImageView
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:background="@drawable/separator_line_grey" />
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ly_option_buttons_container"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/to_improve_label"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:weightSum="2">
+
+
+            <TextView
+                android:id="@+id/tv_option_1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/tertiary_button_rounded_background"
+                android:padding="8dp"
+                android:text="@string/professionalism_label"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/tv_option_2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/tertiary_button_rounded_background"
+                android:padding="8dp"
+                android:text="@string/technique_label"
+                android:textColor="@color/colorAccent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+
+            <TextView
+                android:id="@+id/tv_option_3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginEnd="5dp"
+                android:gravity="center"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/tertiary_button_rounded_background"
+                android:padding="8dp"
+                android:text="@string/agilidadagility_label"
+                android:textColor="@color/colorAccent" />
+
+            <TextView
+                android:id="@+id/tv_option_4"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/tertiary_button_rounded_background"
+                android:padding="8dp"
+                android:text="@string/amiability_label"
+                android:textColor="@color/colorAccent" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_send_rate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/main_button_rounded_background"
+        android:padding="8dp"
+        android:text="@string/accept_label"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

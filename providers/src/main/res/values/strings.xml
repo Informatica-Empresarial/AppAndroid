@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">providers</string>
+    <string name="gcm_project_id" translatable="false">30895832196</string>
+</resources>

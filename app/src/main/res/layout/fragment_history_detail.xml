@@ -1,0 +1,237 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="co.com.lafemmeapp.lafemmeapp.presentation.history_detail.HistoryDetailFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="true"
+        android:orientation="vertical"
+        tools:context="co.com.lafemmeapp.lafemmeapp.presentation.detail_history.DetailHistoryFragment">
+
+
+        <ProgressBar
+            android:id="@+id/pb_voucher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="gone" />
+
+        <ScrollView
+            android:id="@+id/sv_voucher_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical"
+                android:padding="22dp">
+
+                <TextView
+                    android:id="@+id/tv_service"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="@dimen/history_detail_margin_top_labels"
+                    android:text="@string/service_label"
+                    android:textColor="@color/greyishBrownThree"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/rv_services"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_service" />
+
+                <TextView
+                    android:id="@+id/tv_date_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/history_detail_margin_top_labels"
+                    android:text="@string/date_label"
+                    android:textColor="@color/greyishBrownThree"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+                <TextView
+                    android:id="@+id/tv_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/date_label"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+                <TextView
+                    android:id="@+id/tv_time_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/history_detail_margin_top_labels"
+                    android:text="@string/time_label"
+                    android:textColor="@color/greyishBrownThree"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+                <TextView
+                    android:id="@+id/tv_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/time_label"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+                <TextView
+                    android:id="@+id/tv_address_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/history_detail_margin_top_labels"
+                    android:text="@string/address_label"
+                    android:textColor="@color/greyishBrownThree"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:id="@+id/tv_address"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.9"
+                        android:text="@string/address_label"
+                        android:textSize="@dimen/history_detail_label_size" />
+
+                    <ImageView
+                        android:id="@+id/iv_show_appointment_address"
+                        android:layout_width="0dp"
+                        android:layout_height="30dp"
+                        android:visibility="gone"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.1"
+                        android:src="@drawable/ic_info" />
+
+                </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/tv_specialist_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/history_detail_margin_top_labels"
+                    android:text="@string/specialist_label"
+                    android:textColor="@color/greyishBrownThree"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+                <TextView
+                    android:id="@+id/tv_specialist"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/address_label"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+                <TextView
+                    android:id="@+id/tv_phone_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/history_detail_margin_top_labels"
+                    android:text="@string/history_detail_specialist_phone_number_label"
+                    android:textColor="@color/greyishBrownThree"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+
+                <TextView
+                    android:id="@+id/tv_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="-"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+                <TextView
+                    android:id="@+id/tv_price_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/history_detail_margin_top_labels"
+                    android:text="@string/total_label"
+                    android:textColor="@color/greyishBrownThree"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+
+                <TextView
+                    android:id="@+id/tv_price"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="$0"
+                    android:textSize="@dimen/history_detail_label_size" />
+
+
+                <Button
+                    android:id="@+id/btn_rate_service"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/main_button_rounded_background"
+                    android:padding="8dp"
+                    android:text="@string/rate_service_label"
+                    android:textColor="@color/white"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/btn_init_service"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/main_button_rounded_background"
+                    android:padding="8dp"
+                    android:text="@string/init_service_label"
+                    android:textColor="@color/white"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/btn_finish_service"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/main_button_rounded_background"
+                    android:padding="8dp"
+                    android:text="@string/finish_service_label"
+                    android:textColor="@color/white"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/btn_cancel_appointment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|center_horizontal"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:visibility="gone"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/tertiary_button_rounded_background"
+                    android:padding="8dp"
+                    android:text="@string/cancel_label"
+                    android:textColor="@color/colorAccent" />
+
+
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+
+</FrameLayout>

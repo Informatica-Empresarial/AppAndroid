@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:id="@+id/rl_specialist_container"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/iv_specialist_user_avatar"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_weight="0.2"
+        android:src="@drawable/ic_person"
+        app:civ_border_width="0dp" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.8"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="name"
+            android:textColor="@color/darkGrey"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_aditional_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Información adicional"
+            android:textColor="@color/brownishGrey"
+            android:textSize="12sp" />
+
+
+    </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

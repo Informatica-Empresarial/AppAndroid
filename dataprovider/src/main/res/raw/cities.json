@@ -1,0 +1,9312 @@
+[
+  {
+    "name": "Zipaquirá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 91235,
+    "lat": 5.02208,
+    "lon": -74.00481,
+    "selectable": false
+  },
+  {
+    "name": "Zipacón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1480,
+    "lat": 4.75881,
+    "lon": -74.38017,
+    "selectable": false
+  },
+  {
+    "name": "Zetaquira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1047,
+    "lat": 5.28215,
+    "lon": -73.16896,
+    "selectable": false
+  },
+  {
+    "name": "Zarzal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 28761,
+    "lat": 4.39462,
+    "lon": -76.0715,
+    "selectable": false
+  },
+  {
+    "name": "Zaragoza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 18795,
+    "lat": 7.48971,
+    "lon": -74.86919,
+    "selectable": false
+  },
+  {
+    "name": "Zapatoca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 6052,
+    "lat": 6.81532,
+    "lon": -73.26768,
+    "selectable": false
+  },
+  {
+    "name": "Zambrano",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 9565,
+    "lat": 9.74724,
+    "lon": -74.8153,
+    "selectable": false
+  },
+  {
+    "name": "Yumbo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 71436,
+    "lat": 3.58234,
+    "lon": -76.49146,
+    "selectable": false
+  },
+  {
+    "name": "Yotoco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 8362,
+    "lat": 3.86048,
+    "lon": -76.38364,
+    "selectable": false
+  },
+  {
+    "name": "Yopal",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "32",
+    "population": 61029,
+    "lat": 5.33775,
+    "lon": -72.39586,
+    "selectable": false
+  },
+  {
+    "name": "Yondó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7516,
+    "lat": 7.00621,
+    "lon": -73.90972,
+    "selectable": false
+  },
+  {
+    "name": "Yolombó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 6033,
+    "lat": 6.59841,
+    "lon": -75.0114,
+    "selectable": false
+  },
+  {
+    "name": "Yarumal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 22368,
+    "lat": 6.96321,
+    "lon": -75.41738,
+    "selectable": false
+  },
+  {
+    "name": "Yalí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3908,
+    "lat": 6.67456,
+    "lon": -74.8343,
+    "selectable": false
+  },
+  {
+    "name": "Yaguará",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 5724,
+    "lat": 2.66355,
+    "lon": -75.51753,
+    "selectable": false
+  },
+  {
+    "name": "Yacuanquer",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2643,
+    "lat": 1.11577,
+    "lon": -77.40169,
+    "selectable": false
+  },
+  {
+    "name": "Yacopí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 3202,
+    "lat": 5.45948,
+    "lon": -74.33823,
+    "selectable": false
+  },
+  {
+    "name": "Viterbo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 15216,
+    "lat": 5.06242,
+    "lon": -75.87159,
+    "selectable": false
+  },
+  {
+    "name": "Vista Hermosa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 4282,
+    "lat": 3.12428,
+    "lon": -73.75156,
+    "selectable": false
+  },
+  {
+    "name": "Viotá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 5840,
+    "lat": 4.43713,
+    "lon": -74.52157,
+    "selectable": false
+  },
+  {
+    "name": "Villeta",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 20689,
+    "lat": 5.00886,
+    "lon": -74.47226,
+    "selectable": false
+  },
+  {
+    "name": "Villavieja",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 2730,
+    "lat": 3.22052,
+    "lon": -75.21864,
+    "selectable": false
+  },
+  {
+    "name": "Villavicencio",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "19",
+    "population": 321717,
+    "lat": 4.142,
+    "lon": -73.62664,
+    "selectable": false
+  },
+  {
+    "name": "Villarrica",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 3081,
+    "lat": 3.93502,
+    "lon": -74.60036,
+    "selectable": false
+  },
+  {
+    "name": "Villa del Rosario",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 64951,
+    "lat": 7.83389,
+    "lon": -72.47417,
+    "selectable": false
+  },
+  {
+    "name": "Villapinzón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 5874,
+    "lat": 5.21617,
+    "lon": -73.5949,
+    "selectable": false
+  },
+  {
+    "name": "Villanueva",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 18699,
+    "lat": 10.60528,
+    "lon": -72.98,
+    "selectable": false
+  },
+  {
+    "name": "Villanueva",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 12791,
+    "lat": 10.44361,
+    "lon": -75.27306,
+    "selectable": false
+  },
+  {
+    "name": "Villanueva",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 3707,
+    "lat": 6.67169,
+    "lon": -73.1742,
+    "selectable": false
+  },
+  {
+    "name": "Villanueva",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 20032,
+    "lat": 5.28333,
+    "lon": -71.96667,
+    "selectable": false
+  },
+  {
+    "name": "Villamaría",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 35302,
+    "lat": 5.04492,
+    "lon": -75.5146,
+    "selectable": false
+  },
+  {
+    "name": "Villahermosa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 4155,
+    "lat": 5.03067,
+    "lon": -75.11607,
+    "selectable": false
+  },
+  {
+    "name": "Villagarzón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 7015,
+    "lat": 1.0375,
+    "lon": -76.62667,
+    "selectable": false
+  },
+  {
+    "name": "Villa de Leiva",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 5103,
+    "lat": 5.645,
+    "lon": -73.56667,
+    "selectable": false
+  },
+  {
+    "name": "Vijes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 4070,
+    "lat": 3.69934,
+    "lon": -76.4423,
+    "selectable": false
+  },
+  {
+    "name": "Vigía del Fuerte",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 4638,
+    "lat": 6.57891,
+    "lon": -76.88628,
+    "selectable": false
+  },
+  {
+    "name": "Victoria",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 4723,
+    "lat": 5.31648,
+    "lon": -74.91101,
+    "selectable": false
+  },
+  {
+    "name": "Vianí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1586,
+    "lat": 4.87384,
+    "lon": -74.56244,
+    "selectable": false
+  },
+  {
+    "name": "Vetas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1210,
+    "lat": 7.30911,
+    "lon": -72.87122,
+    "selectable": false
+  },
+  {
+    "name": "Versalles",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 3542,
+    "lat": 4.57544,
+    "lon": -76.19814,
+    "selectable": false
+  },
+  {
+    "name": "Vergara",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2267,
+    "lat": 5.11841,
+    "lon": -74.34549,
+    "selectable": false
+  },
+  {
+    "name": "Ventaquemada",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1680,
+    "lat": 5.36753,
+    "lon": -73.52075,
+    "selectable": false
+  },
+  {
+    "name": "Venecia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5462,
+    "lat": 5.96278,
+    "lon": -75.73806,
+    "selectable": false
+  },
+  {
+    "name": "Venecia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1307,
+    "lat": 4.08808,
+    "lon": -74.47746,
+    "selectable": false
+  },
+  {
+    "name": "Venadillo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 11310,
+    "lat": 4.7193,
+    "lon": -74.92918,
+    "selectable": false
+  },
+  {
+    "name": "Vélez",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 10905,
+    "lat": 6.01335,
+    "lon": -73.67352,
+    "selectable": false
+  },
+  {
+    "name": "Valparaíso",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3626,
+    "lat": 5.615,
+    "lon": -75.62422,
+    "selectable": false
+  },
+  {
+    "name": "Valparaíso",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 3767,
+    "lat": 1.19512,
+    "lon": -75.70705,
+    "selectable": false
+  },
+  {
+    "name": "Valledupar",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "10",
+    "population": 308237,
+    "lat": 10.46314,
+    "lon": -73.25322,
+    "selectable": false
+  },
+  {
+    "name": "Valle de San Juan",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 1486,
+    "lat": 4.19869,
+    "lon": -75.11733,
+    "selectable": false
+  },
+  {
+    "name": "Valle de San José",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2522,
+    "lat": 6.4475,
+    "lon": -73.14361,
+    "selectable": false
+  },
+  {
+    "name": "Valencia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 10652,
+    "lat": 8.25801,
+    "lon": -76.14928,
+    "selectable": false
+  },
+  {
+    "name": "Valdivia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3398,
+    "lat": 7.28889,
+    "lon": -75.39778,
+    "selectable": false
+  },
+  {
+    "name": "Utica",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2945,
+    "lat": 5.18727,
+    "lon": -74.48105,
+    "selectable": false
+  },
+  {
+    "name": "Usiacurí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 9146,
+    "lat": 10.75,
+    "lon": -74.98333,
+    "selectable": false
+  },
+  {
+    "name": "Urumita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 8509,
+    "lat": 10.55894,
+    "lon": -73.01232,
+    "selectable": false
+  },
+  {
+    "name": "Urrao",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 18846,
+    "lat": 6.3152,
+    "lon": -76.1342,
+    "selectable": false
+  },
+  {
+    "name": "Uribia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 7519,
+    "lat": 11.7139,
+    "lon": -72.26604,
+    "selectable": false
+  },
+  {
+    "name": "Uramita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2292,
+    "lat": 6.89944,
+    "lon": -76.17417,
+    "selectable": false
+  },
+  {
+    "name": "Ungia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 4179,
+    "lat": 8.04335,
+    "lon": -77.09453,
+    "selectable": false
+  },
+  {
+    "name": "Une",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 3208,
+    "lat": 4.40306,
+    "lon": -74.02528,
+    "selectable": false
+  },
+  {
+    "name": "Umbita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1295,
+    "lat": 5.22041,
+    "lon": -73.45695,
+    "selectable": false
+  },
+  {
+    "name": "Ulloa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 2621,
+    "lat": 4.70444,
+    "lon": -75.74028,
+    "selectable": false
+  },
+  {
+    "name": "Ubaté",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 20485,
+    "lat": 5.30933,
+    "lon": -73.81574,
+    "selectable": false
+  },
+  {
+    "name": "Ubaque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1009,
+    "lat": 4.48668,
+    "lon": -73.93748,
+    "selectable": false
+  },
+  {
+    "name": "Ubalá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1886,
+    "lat": 4.74778,
+    "lon": -72.53694,
+    "selectable": false
+  },
+  {
+    "name": "Tuta",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1639,
+    "lat": 5.68966,
+    "lon": -73.22779,
+    "selectable": false
+  },
+  {
+    "name": "Turmequé",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2901,
+    "lat": 5.3236,
+    "lon": -73.49067,
+    "selectable": false
+  },
+  {
+    "name": "Turbo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 50508,
+    "lat": 8.09368,
+    "lon": -76.72691,
+    "selectable": false
+  },
+  {
+    "name": "Turbaná",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 10235,
+    "lat": 10.2717,
+    "lon": -75.44222,
+    "selectable": false
+  },
+  {
+    "name": "Turbaco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 56171,
+    "lat": 10.32944,
+    "lon": -75.41137,
+    "selectable": false
+  },
+  {
+    "name": "Túquerres",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 20184,
+    "lat": 1.08878,
+    "lon": -77.6183,
+    "selectable": false
+  },
+  {
+    "name": "Tunja",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "36",
+    "population": 117479,
+    "lat": 5.53528,
+    "lon": -73.36778,
+    "selectable": false
+  },
+  {
+    "name": "Tumaco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 86713,
+    "lat": 1.79861,
+    "lon": -78.81556,
+    "selectable": false
+  },
+  {
+    "name": "Tuluá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 165501,
+    "lat": 4.08466,
+    "lon": -76.19536,
+    "selectable": false
+  },
+  {
+    "name": "Tubará",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 8180,
+    "lat": 10.87444,
+    "lon": -74.97889,
+    "selectable": false
+  },
+  {
+    "name": "Trujillo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 5874,
+    "lat": 4.21217,
+    "lon": -76.31945,
+    "selectable": false
+  },
+  {
+    "name": "Trinidad",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 4752,
+    "lat": 5.43056,
+    "lon": -71.63111,
+    "selectable": false
+  },
+  {
+    "name": "Totoró",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 1888,
+    "lat": 2.51204,
+    "lon": -76.40124,
+    "selectable": false
+  },
+  {
+    "name": "Toro",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "29",
+    "population": 13764,
+    "lat": 4.61167,
+    "lon": -76.08139,
+    "selectable": false
+  },
+  {
+    "name": "Toribío",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 3911,
+    "lat": 2.95481,
+    "lon": -76.26839,
+    "selectable": false
+  },
+  {
+    "name": "Topaipí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1099,
+    "lat": 5.33457,
+    "lon": -74.30292,
+    "selectable": false
+  },
+  {
+    "name": "Tópaga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1014,
+    "lat": 5.75979,
+    "lon": -72.82583,
+    "selectable": false
+  },
+  {
+    "name": "Toluviejo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 8260,
+    "lat": 9.45082,
+    "lon": -75.43864,
+    "selectable": false
+  },
+  {
+    "name": "Tolú",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 27390,
+    "lat": 9.52392,
+    "lon": -75.58139,
+    "selectable": false
+  },
+  {
+    "name": "Toledo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 5911,
+    "lat": 7.30984,
+    "lon": -72.48295,
+    "selectable": false
+  },
+  {
+    "name": "Tocancipá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 6027,
+    "lat": 4.96531,
+    "lon": -73.91301,
+    "selectable": false
+  },
+  {
+    "name": "Tocaima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 10235,
+    "lat": 4.4582,
+    "lon": -74.63434,
+    "selectable": false
+  },
+  {
+    "name": "Toca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 3946,
+    "lat": 5.56392,
+    "lon": -73.18398,
+    "selectable": false
+  },
+  {
+    "name": "Titiribí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3787,
+    "lat": 6.06276,
+    "lon": -75.7937,
+    "selectable": false
+  },
+  {
+    "name": "Tipacoque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1036,
+    "lat": 6.42031,
+    "lon": -72.69184,
+    "selectable": false
+  },
+  {
+    "name": "Timbiquí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 6267,
+    "lat": 2.7717,
+    "lon": -77.66536,
+    "selectable": false
+  },
+  {
+    "name": "Timaná",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 8203,
+    "lat": 1.97136,
+    "lon": -75.93123,
+    "selectable": false
+  },
+  {
+    "name": "Tierralta",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 26242,
+    "lat": 8.17361,
+    "lon": -76.05917,
+    "selectable": false
+  },
+  {
+    "name": "Tibú",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 13565,
+    "lat": 8.63896,
+    "lon": -72.73583,
+    "selectable": false
+  },
+  {
+    "name": "Tibasosa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 3535,
+    "lat": 5.75,
+    "lon": -73,
+    "selectable": false
+  },
+  {
+    "name": "Tibaná",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1802,
+    "lat": 5.31728,
+    "lon": -73.39655,
+    "selectable": false
+  },
+  {
+    "name": "Tesalia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 3981,
+    "lat": 2.48587,
+    "lon": -75.72921,
+    "selectable": false
+  },
+  {
+    "name": "Teruel",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 3921,
+    "lat": 2.74193,
+    "lon": -75.56738,
+    "selectable": false
+  },
+  {
+    "name": "Tenza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1312,
+    "lat": 5.07664,
+    "lon": -73.42077,
+    "selectable": false
+  },
+  {
+    "name": "Tenjo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 3858,
+    "lat": 4.8727,
+    "lon": -74.14435,
+    "selectable": false
+  },
+  {
+    "name": "Tello",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 4868,
+    "lat": 3.06694,
+    "lon": -75.13778,
+    "selectable": false
+  },
+  {
+    "name": "Tauramena",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 4805,
+    "lat": 5.01831,
+    "lon": -72.74919,
+    "selectable": false
+  },
+  {
+    "name": "Tasco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1811,
+    "lat": 5.91044,
+    "lon": -72.78001,
+    "selectable": false
+  },
+  {
+    "name": "Tarso",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2700,
+    "lat": 5.86467,
+    "lon": -75.82192,
+    "selectable": false
+  },
+  {
+    "name": "Tarqui",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 4144,
+    "lat": 2.11248,
+    "lon": -75.82419,
+    "selectable": false
+  },
+  {
+    "name": "Tarapacá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 3100,
+    "lat": -2.87861,
+    "lon": -69.74417,
+    "selectable": false
+  },
+  {
+    "name": "Tangua",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3348,
+    "lat": 1.09473,
+    "lon": -77.39482,
+    "selectable": false
+  },
+  {
+    "name": "Taminango",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2919,
+    "lat": 1.57491,
+    "lon": -77.28666,
+    "selectable": false
+  },
+  {
+    "name": "Támesis",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 6406,
+    "lat": 5.66462,
+    "lon": -75.71339,
+    "selectable": false
+  },
+  {
+    "name": "Tame",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 29099,
+    "lat": 6.461,
+    "lon": -71.73004,
+    "selectable": false
+  },
+  {
+    "name": "Tamara",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 2007,
+    "lat": 5.82972,
+    "lon": -72.16333,
+    "selectable": false
+  },
+  {
+    "name": "Tamalameque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 4972,
+    "lat": 8.85221,
+    "lon": -73.81229,
+    "selectable": false
+  },
+  {
+    "name": "Talaigua Viejo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 6217,
+    "lat": 9.31206,
+    "lon": -74.58544,
+    "selectable": false
+  },
+  {
+    "name": "Tadó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 10095,
+    "lat": 5.26598,
+    "lon": -76.56487,
+    "selectable": false
+  },
+  {
+    "name": "Tabio",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4180,
+    "lat": 4.91726,
+    "lon": -74.09364,
+    "selectable": false
+  },
+  {
+    "name": "Sutatausa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1332,
+    "lat": 5.24779,
+    "lon": -73.85238,
+    "selectable": false
+  },
+  {
+    "name": "Sutamarchán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1432,
+    "lat": 5.61538,
+    "lon": -73.61701,
+    "selectable": false
+  },
+  {
+    "name": "Susacón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1207,
+    "lat": 6.22978,
+    "lon": -72.6901,
+    "selectable": false
+  },
+  {
+    "name": "Susa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1608,
+    "lat": 5.4519,
+    "lon": -73.81436,
+    "selectable": false
+  },
+  {
+    "name": "Supía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 12784,
+    "lat": 5.45303,
+    "lon": -75.65072,
+    "selectable": false
+  },
+  {
+    "name": "Supatá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1907,
+    "lat": 5.06097,
+    "lon": -74.2372,
+    "selectable": false
+  },
+  {
+    "name": "Suesca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4877,
+    "lat": 5.10289,
+    "lon": -73.79845,
+    "selectable": false
+  },
+  {
+    "name": "Sucre",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 23210,
+    "lat": 8.81136,
+    "lon": -74.72084,
+    "selectable": false
+  },
+  {
+    "name": "Sucre",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1095,
+    "lat": 5.91833,
+    "lon": -73.79109,
+    "selectable": false
+  },
+  {
+    "name": "Sucre",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 2552,
+    "lat": 2.03805,
+    "lon": -76.92446,
+    "selectable": false
+  },
+  {
+    "name": "Subachoque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4088,
+    "lat": 4.92614,
+    "lon": -74.17299,
+    "selectable": false
+  },
+  {
+    "name": "Suaza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 2481,
+    "lat": 1.97611,
+    "lon": -75.79454,
+    "selectable": false
+  },
+  {
+    "name": "Suárez",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 1243,
+    "lat": 4.04906,
+    "lon": -74.83198,
+    "selectable": false
+  },
+  {
+    "name": "Suárez",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 9985,
+    "lat": 2.95395,
+    "lon": -76.69644,
+    "selectable": false
+  },
+  {
+    "name": "Suan",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 10381,
+    "lat": 10.33347,
+    "lon": -74.88016,
+    "selectable": false
+  },
+  {
+    "name": "Suaita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2691,
+    "lat": 6.1014,
+    "lon": -73.44041,
+    "selectable": false
+  },
+  {
+    "name": "Sotomayor",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 4839,
+    "lat": 1.51469,
+    "lon": -77.50444,
+    "selectable": false
+  },
+  {
+    "name": "Sotaquirá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1352,
+    "lat": 5.76483,
+    "lon": -73.24758,
+    "selectable": false
+  },
+  {
+    "name": "Sopó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 8396,
+    "lat": 4.9075,
+    "lon": -73.9384,
+    "selectable": false
+  },
+  {
+    "name": "Soplaviento",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 8067,
+    "lat": 10.39306,
+    "lon": -75.14083,
+    "selectable": false
+  },
+  {
+    "name": "Sonsón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 17232,
+    "lat": 5.71062,
+    "lon": -75.31068,
+    "selectable": false
+  },
+  {
+    "name": "Somondoco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1029,
+    "lat": 4.98778,
+    "lon": -73.43611,
+    "selectable": false
+  },
+  {
+    "name": "Soledad",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 342556,
+    "lat": 10.91843,
+    "lon": -74.76459,
+    "selectable": false
+  },
+  {
+    "name": "Solano",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 2973,
+    "lat": 0.69937,
+    "lon": -75.25353,
+    "selectable": false
+  },
+  {
+    "name": "Sogamoso",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 126551,
+    "lat": 5.71434,
+    "lon": -72.93391,
+    "selectable": false
+  },
+  {
+    "name": "Socotá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2193,
+    "lat": 6.04028,
+    "lon": -72.63509,
+    "selectable": false
+  },
+  {
+    "name": "Socorro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 17752,
+    "lat": 6.46838,
+    "lon": -73.26022,
+    "selectable": false
+  },
+  {
+    "name": "Socha Viejo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 3353,
+    "lat": 5.9817,
+    "lon": -72.71503,
+    "selectable": false
+  },
+  {
+    "name": "Soatá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 10945,
+    "lat": 6.33369,
+    "lon": -72.68283,
+    "selectable": false
+  },
+  {
+    "name": "Soacha",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 313945,
+    "lat": 4.57937,
+    "lon": -74.21682,
+    "selectable": false
+  },
+  {
+    "name": "Sitionuevo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 11817,
+    "lat": 10.77737,
+    "lon": -74.72049,
+    "selectable": false
+  },
+  {
+    "name": "Sincelejo",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "27",
+    "population": 261187,
+    "lat": 9.30472,
+    "lon": -75.39778,
+    "selectable": false
+  },
+  {
+    "name": "Sincé",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 30768,
+    "lat": 9.24391,
+    "lon": -75.14675,
+    "selectable": false
+  },
+  {
+    "name": "Simití",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 6670,
+    "lat": 7.9579,
+    "lon": -73.9436,
+    "selectable": false
+  },
+  {
+    "name": "Simijaca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4767,
+    "lat": 5.50291,
+    "lon": -73.85227,
+    "selectable": false
+  },
+  {
+    "name": "Simacota",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2156,
+    "lat": 6.4429,
+    "lon": -73.33688,
+    "selectable": false
+  },
+  {
+    "name": "Silvia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 7474,
+    "lat": 2.6098,
+    "lon": -76.38185,
+    "selectable": false
+  },
+  {
+    "name": "Silvania",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 8237,
+    "lat": 4.40367,
+    "lon": -74.3867,
+    "selectable": false
+  },
+  {
+    "name": "Silos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1300,
+    "lat": 7.20524,
+    "lon": -72.75639,
+    "selectable": false
+  },
+  {
+    "name": "Sibundoy",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 9458,
+    "lat": 1.20478,
+    "lon": -76.92366,
+    "selectable": false
+  },
+  {
+    "name": "Sibaté",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 23208,
+    "lat": 4.48425,
+    "lon": -74.24499,
+    "selectable": false
+  },
+  {
+    "name": "Siachoque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1375,
+    "lat": 5.51238,
+    "lon": -73.24436,
+    "selectable": false
+  },
+  {
+    "name": "Sevilla",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 41612,
+    "lat": 4.26425,
+    "lon": -75.93085,
+    "selectable": false
+  },
+  {
+    "name": "Sesquilé",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1876,
+    "lat": 5.04463,
+    "lon": -73.79724,
+    "selectable": false
+  },
+  {
+    "name": "Segovia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 39938,
+    "lat": 7.07993,
+    "lon": -74.6989,
+    "selectable": false
+  },
+  {
+    "name": "Sasaima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2948,
+    "lat": 4.96611,
+    "lon": -74.43512,
+    "selectable": false
+  },
+  {
+    "name": "Sardinata",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 7872,
+    "lat": 8.08289,
+    "lon": -72.80071,
+    "selectable": false
+  },
+  {
+    "name": "Sapuyes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2628,
+    "lat": 1.03728,
+    "lon": -77.62094,
+    "selectable": false
+  },
+  {
+    "name": "San Zenón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 6520,
+    "lat": 9.24217,
+    "lon": -74.50037,
+    "selectable": false
+  },
+  {
+    "name": "San Vicente de Chucurí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 11265,
+    "lat": 6.881,
+    "lon": -73.40977,
+    "selectable": false
+  },
+  {
+    "name": "San Vicente",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5020,
+    "lat": 6.23278,
+    "lon": -75.33611,
+    "selectable": false
+  },
+  {
+    "name": "Santuario",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 17722,
+    "lat": 6.13833,
+    "lon": -75.26417,
+    "selectable": false
+  },
+  {
+    "name": "Santuario",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 6815,
+    "lat": 5.07237,
+    "lon": -75.96341,
+    "selectable": false
+  },
+  {
+    "name": "Santo Tomás",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 25847,
+    "lat": 10.75773,
+    "lon": -74.75451,
+    "selectable": false
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2873,
+    "lat": 6.47222,
+    "lon": -75.16472,
+    "selectable": false
+  },
+  {
+    "name": "Santiago",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1032,
+    "lat": 7.86432,
+    "lon": -72.7162,
+    "selectable": false
+  },
+  {
+    "name": "Santiago",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 2715,
+    "lat": 1.14844,
+    "lon": -77.0045,
+    "selectable": false
+  },
+  {
+    "name": "Santa Sofía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1058,
+    "lat": 5.70908,
+    "lon": -73.60404,
+    "selectable": false
+  },
+  {
+    "name": "Santa Rosa de Viterbo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 6923,
+    "lat": 5.87401,
+    "lon": -72.98217,
+    "selectable": false
+  },
+  {
+    "name": "Santa Rosa de Osos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 10191,
+    "lat": 6.64738,
+    "lon": -75.4603,
+    "selectable": false
+  },
+  {
+    "name": "Santa Rosa de Cabal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 57928,
+    "lat": 4.86806,
+    "lon": -75.62139,
+    "selectable": false
+  },
+  {
+    "name": "Santa Rosa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 10604,
+    "lat": 10.44472,
+    "lon": -75.36972,
+    "selectable": false
+  },
+  {
+    "name": "Santander de Quilichao",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 40798,
+    "lat": 3.00945,
+    "lon": -76.48494,
+    "selectable": false
+  },
+  {
+    "name": "Santana",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2091,
+    "lat": 6.0575,
+    "lon": -73.48112,
+    "selectable": false
+  },
+  {
+    "name": "Santa Marta",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "38",
+    "population": 431781,
+    "lat": 11.24079,
+    "lon": -74.19904,
+    "selectable": false
+  },
+  {
+    "name": "Santa María",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2238,
+    "lat": 4.86048,
+    "lon": -73.26234,
+    "selectable": false
+  },
+  {
+    "name": "Santa María",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 2761,
+    "lat": 2.95,
+    "lon": -75.65,
+    "selectable": false
+  },
+  {
+    "name": "Santa Lucía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 15760,
+    "lat": 10.3242,
+    "lon": -74.96017,
+    "selectable": false
+  },
+  {
+    "name": "Santa Catalina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 6084,
+    "lat": 10.60361,
+    "lon": -75.28824,
+    "selectable": false
+  },
+  {
+    "name": "Santa Bárbara",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 12743,
+    "lat": 5.87458,
+    "lon": -75.56706,
+    "selectable": false
+  },
+  {
+    "name": "Santa Ana",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 13950,
+    "lat": 9.32125,
+    "lon": -74.56848,
+    "selectable": false
+  },
+  {
+    "name": "San Roque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5576,
+    "lat": 6.48511,
+    "lon": -75.0196,
+    "selectable": false
+  },
+  {
+    "name": "San Rafael",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7245,
+    "lat": 6.29436,
+    "lon": -75.02589,
+    "selectable": false
+  },
+  {
+    "name": "San Pelayo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 5637,
+    "lat": 8.95833,
+    "lon": -75.83627,
+    "selectable": false
+  },
+  {
+    "name": "San Pedro de Urabá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 11095,
+    "lat": 8.27515,
+    "lon": -76.37641,
+    "selectable": false
+  },
+  {
+    "name": "San Pedro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 11489,
+    "lat": 9.3956,
+    "lon": -75.06476,
+    "selectable": false
+  },
+  {
+    "name": "San Pedro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 8801,
+    "lat": 6.46451,
+    "lon": -75.56002,
+    "selectable": false
+  },
+  {
+    "name": "San Pedro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 5473,
+    "lat": 3.99456,
+    "lon": -76.2278,
+    "selectable": false
+  },
+  {
+    "name": "San Pablo de Borbur",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1519,
+    "lat": 5.66034,
+    "lon": -74.06212,
+    "selectable": false
+  },
+  {
+    "name": "San Pablo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 13983,
+    "lat": 10.05154,
+    "lon": -75.26775,
+    "selectable": false
+  },
+  {
+    "name": "San Pablo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 6522,
+    "lat": 1.6725,
+    "lon": -77.01389,
+    "selectable": false
+  },
+  {
+    "name": "San Onofre",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 32957,
+    "lat": 9.73586,
+    "lon": -75.52626,
+    "selectable": false
+  },
+  {
+    "name": "San Miguel",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 7185,
+    "lat": 0.34314,
+    "lon": -76.91124,
+    "selectable": false
+  },
+  {
+    "name": "San Mateo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1634,
+    "lat": 6.40111,
+    "lon": -72.55563,
+    "selectable": false
+  },
+  {
+    "name": "San Martín",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 16273,
+    "lat": 3.69637,
+    "lon": -73.69958,
+    "selectable": false
+  },
+  {
+    "name": "San Marcos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 36549,
+    "lat": 8.65972,
+    "lon": -75.12809,
+    "selectable": false
+  },
+  {
+    "name": "San Luis de Palenque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 2032,
+    "lat": 5.42139,
+    "lon": -71.73167,
+    "selectable": false
+  },
+  {
+    "name": "San Luis de Gaceno",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2579,
+    "lat": 4.82052,
+    "lon": -73.16851,
+    "selectable": false
+  },
+  {
+    "name": "San Luis de Cubarral",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 2280,
+    "lat": 3.79352,
+    "lon": -73.84063,
+    "selectable": false
+  },
+  {
+    "name": "San Luis",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 4184,
+    "lat": 4.13258,
+    "lon": -75.09499,
+    "selectable": false
+  },
+  {
+    "name": "San Lorenzo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2394,
+    "lat": 1.50628,
+    "lon": -77.21898,
+    "selectable": false
+  },
+  {
+    "name": "San Juan Nepomuceno",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 29619,
+    "lat": 9.95156,
+    "lon": -75.08198,
+    "selectable": false
+  },
+  {
+    "name": "San Juan de Urabá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 10825,
+    "lat": 8.75924,
+    "lon": -76.52969,
+    "selectable": false
+  },
+  {
+    "name": "San Juan del Cesar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 26848,
+    "lat": 10.77108,
+    "lon": -73.00314,
+    "selectable": false
+  },
+  {
+    "name": "San Juan de Betulia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 9092,
+    "lat": 9.27345,
+    "lon": -75.24103,
+    "selectable": false
+  },
+  {
+    "name": "San Juan de Arama",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 2636,
+    "lat": 3.36985,
+    "lon": -73.87267,
+    "selectable": false
+  },
+  {
+    "name": "San José de Miranda",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1096,
+    "lat": 6.6587,
+    "lon": -72.73344,
+    "selectable": false
+  },
+  {
+    "name": "San José del Palmar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 2392,
+    "lat": 4.97417,
+    "lon": -76.22833,
+    "selectable": false
+  },
+  {
+    "name": "San José de La Montaña",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2819,
+    "lat": 6.85028,
+    "lon": -75.68333,
+    "selectable": false
+  },
+  {
+    "name": "San José",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 1724,
+    "lat": 5.08583,
+    "lon": -75.78833,
+    "selectable": false
+  },
+  {
+    "name": "San José",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 1772,
+    "lat": 1.69659,
+    "lon": -78.24482,
+    "selectable": false
+  },
+  {
+    "name": "San Jerónimo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3356,
+    "lat": 6.44344,
+    "lon": -75.72815,
+    "selectable": false
+  },
+  {
+    "name": "San Jacinto",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 20265,
+    "lat": 9.82767,
+    "lon": -75.1217,
+    "selectable": false
+  },
+  {
+    "name": "San Gil",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 33592,
+    "lat": 6.55573,
+    "lon": -73.13309,
+    "selectable": false
+  },
+  {
+    "name": "San Francisco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2779,
+    "lat": 6.11667,
+    "lon": -75.98333,
+    "selectable": false
+  },
+  {
+    "name": "San Francisco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2785,
+    "lat": 4.97372,
+    "lon": -74.29006,
+    "selectable": false
+  },
+  {
+    "name": "San Francisco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 4350,
+    "lat": 1.17867,
+    "lon": -76.8785,
+    "selectable": false
+  },
+  {
+    "name": "San Fernando",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 1615,
+    "lat": 9.27972,
+    "lon": -74.53389,
+    "selectable": false
+  },
+  {
+    "name": "San Estanislao",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 12596,
+    "lat": 10.39833,
+    "lon": -75.15111,
+    "selectable": false
+  },
+  {
+    "name": "Sandoná",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 10401,
+    "lat": 1.28626,
+    "lon": -77.46921,
+    "selectable": false
+  },
+  {
+    "name": "San Diego",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 8014,
+    "lat": 10.33622,
+    "lon": -73.18203,
+    "selectable": false
+  },
+  {
+    "name": "San Cristóbal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 4737,
+    "lat": 9.87809,
+    "lon": -75.25248,
+    "selectable": false
+  },
+  {
+    "name": "San Cayetano",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1430,
+    "lat": 7.87707,
+    "lon": -72.6243,
+    "selectable": false
+  },
+  {
+    "name": "San Carlos de Guaroa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 1604,
+    "lat": 3.71161,
+    "lon": -73.24344,
+    "selectable": false
+  },
+  {
+    "name": "San Carlos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 24615,
+    "lat": 8.79577,
+    "lon": -75.69947,
+    "selectable": false
+  },
+  {
+    "name": "San Carlos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 22678,
+    "lat": 7.79177,
+    "lon": -74.77316,
+    "selectable": false
+  },
+  {
+    "name": "San Carlos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7742,
+    "lat": 6.18789,
+    "lon": -74.99315,
+    "selectable": false
+  },
+  {
+    "name": "San Calixto",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 2080,
+    "lat": 8.4021,
+    "lon": -73.20737,
+    "selectable": false
+  },
+  {
+    "name": "San Bernardo del Viento",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 8967,
+    "lat": 9.3533,
+    "lon": -75.95244,
+    "selectable": false
+  },
+  {
+    "name": "San Bernardo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 2988,
+    "lat": 1.52119,
+    "lon": -77.03091,
+    "selectable": false
+  },
+  {
+    "name": "San Benito Abad",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 18181,
+    "lat": 8.92901,
+    "lon": -75.02709,
+    "selectable": false
+  },
+  {
+    "name": "San Antonio",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 8476,
+    "lat": 9.93303,
+    "lon": -74.69346,
+    "selectable": false
+  },
+  {
+    "name": "San Antonio",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 5185,
+    "lat": 3.91423,
+    "lon": -75.48008,
+    "selectable": false
+  },
+  {
+    "name": "San Antero",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 11610,
+    "lat": 9.3741,
+    "lon": -75.75891,
+    "selectable": false
+  },
+  {
+    "name": "San Andrés",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "25",
+    "population": 58257,
+    "lat": 12.58472,
+    "lon": -81.70056,
+    "selectable": false
+  },
+  {
+    "name": "San Andrés",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 3032,
+    "lat": 6.81148,
+    "lon": -72.84929,
+    "selectable": false
+  },
+  {
+    "name": "San Alberto",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 10627,
+    "lat": 7.76107,
+    "lon": -73.3922,
+    "selectable": false
+  },
+  {
+    "name": "San Agustín",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 9481,
+    "lat": 1.87863,
+    "lon": -76.27557,
+    "selectable": false
+  },
+  {
+    "name": "Sampués",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 21204,
+    "lat": 9.18361,
+    "lon": -75.38167,
+    "selectable": false
+  },
+  {
+    "name": "Samaniego",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 13515,
+    "lat": 1.3385,
+    "lon": -77.5957,
+    "selectable": false
+  },
+  {
+    "name": "Samacá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 3689,
+    "lat": 5.49274,
+    "lon": -73.48537,
+    "selectable": false
+  },
+  {
+    "name": "Salgar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 6428,
+    "lat": 5.96502,
+    "lon": -75.96541,
+    "selectable": false
+  },
+  {
+    "name": "Salento",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 4135,
+    "lat": 4.6375,
+    "lon": -75.57028,
+    "selectable": false
+  },
+  {
+    "name": "Saldaña",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 9237,
+    "lat": 3.92922,
+    "lon": -75.01517,
+    "selectable": false
+  },
+  {
+    "name": "Salamina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 6166,
+    "lat": 10.49027,
+    "lon": -74.79463,
+    "selectable": false
+  },
+  {
+    "name": "Salamina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 18076,
+    "lat": 5.40733,
+    "lon": -75.48749,
+    "selectable": false
+  },
+  {
+    "name": "Saladoblanco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 1662,
+    "lat": 1.99244,
+    "lon": -76.04335,
+    "selectable": false
+  },
+  {
+    "name": "Sahagún",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 59188,
+    "lat": 8.94616,
+    "lon": -75.44275,
+    "selectable": false
+  },
+  {
+    "name": "Sáchica",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1774,
+    "lat": 5.58453,
+    "lon": -73.54184,
+    "selectable": false
+  },
+  {
+    "name": "Saboyá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1375,
+    "lat": 5.69636,
+    "lon": -73.76932,
+    "selectable": false
+  },
+  {
+    "name": "Sabaneta",
+    "country": "CO",
+    "featureCode": "PPLX",
+    "adminCode": "02",
+    "population": 34172,
+    "lat": 6.15154,
+    "lon": -75.61658,
+    "selectable": false
+  },
+  {
+    "name": "Sabanalarga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 68535,
+    "lat": 10.62962,
+    "lon": -74.92063,
+    "selectable": false
+  },
+  {
+    "name": "Sabanalarga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2517,
+    "lat": 6.84893,
+    "lon": -75.81711,
+    "selectable": false
+  },
+  {
+    "name": "Sabanagrande",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 24880,
+    "lat": 10.79115,
+    "lon": -74.76059,
+    "selectable": false
+  },
+  {
+    "name": "Sabana de Torres",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 11291,
+    "lat": 7.3915,
+    "lon": -73.49574,
+    "selectable": false
+  },
+  {
+    "name": "Rovira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 6949,
+    "lat": 4.23922,
+    "lon": -75.23996,
+    "selectable": false
+  },
+  {
+    "name": "Rosas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 1830,
+    "lat": 2.26093,
+    "lon": -76.73986,
+    "selectable": false
+  },
+  {
+    "name": "Roncesvalles",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 3918,
+    "lat": 4.0108,
+    "lon": -75.60493,
+    "selectable": false
+  },
+  {
+    "name": "Roldanillo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 27561,
+    "lat": 4.41256,
+    "lon": -76.15457,
+    "selectable": false
+  },
+  {
+    "name": "Rivera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 8044,
+    "lat": 2.77717,
+    "lon": -75.25642,
+    "selectable": false
+  },
+  {
+    "name": "Risaralda",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 5421,
+    "lat": 5.16647,
+    "lon": -75.76595,
+    "selectable": false
+  },
+  {
+    "name": "Río Viejo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 6963,
+    "lat": 8.5874,
+    "lon": -73.83901,
+    "selectable": false
+  },
+  {
+    "name": "Riosucio",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 7163,
+    "lat": 7.44027,
+    "lon": -77.1167,
+    "selectable": false
+  },
+  {
+    "name": "Riosucio",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 18950,
+    "lat": 5.42164,
+    "lon": -75.70318,
+    "selectable": false
+  },
+  {
+    "name": "Rionegro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 62291,
+    "lat": 6.15515,
+    "lon": -75.37371,
+    "selectable": false
+  },
+  {
+    "name": "Ríohacha",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "17",
+    "population": 92431,
+    "lat": 11.54444,
+    "lon": -72.90722,
+    "selectable": false
+  },
+  {
+    "name": "Riofrío",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 9236,
+    "lat": 4.1571,
+    "lon": -76.28852,
+    "selectable": false
+  },
+  {
+    "name": "Río de Oro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 6122,
+    "lat": 8.2919,
+    "lon": -73.38485,
+    "selectable": false
+  },
+  {
+    "name": "Rioblanco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 6210,
+    "lat": 3.53083,
+    "lon": -75.68056,
+    "selectable": false
+  },
+  {
+    "name": "Ricaurte",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2682,
+    "lat": 4.28075,
+    "lon": -74.76469,
+    "selectable": false
+  },
+  {
+    "name": "Ricaurte",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2617,
+    "lat": 1.18112,
+    "lon": -77.96124,
+    "selectable": false
+  },
+  {
+    "name": "El Retiro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7941,
+    "lat": 6.05861,
+    "lon": -75.50306,
+    "selectable": false
+  },
+  {
+    "name": "Restrepo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 7511,
+    "lat": 4.25833,
+    "lon": -73.56142,
+    "selectable": false
+  },
+  {
+    "name": "Restrepo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 9545,
+    "lat": 3.82203,
+    "lon": -76.52242,
+    "selectable": false
+  },
+  {
+    "name": "Repelón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 18685,
+    "lat": 10.49194,
+    "lon": -75.12917,
+    "selectable": false
+  },
+  {
+    "name": "Remolino",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 8308,
+    "lat": 10.70198,
+    "lon": -74.71602,
+    "selectable": false
+  },
+  {
+    "name": "Remedios",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 6415,
+    "lat": 7.03083,
+    "lon": -74.53333,
+    "selectable": false
+  },
+  {
+    "name": "Regidor",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 3386,
+    "lat": 8.66565,
+    "lon": -73.82151,
+    "selectable": false
+  },
+  {
+    "name": "Ráquira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2120,
+    "lat": 5.53793,
+    "lon": -73.63201,
+    "selectable": false
+  },
+  {
+    "name": "Ramiriquí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 5039,
+    "lat": 5.4002,
+    "lon": -73.33544,
+    "selectable": false
+  },
+  {
+    "name": "Ragonvalia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 3543,
+    "lat": 7.57749,
+    "lon": -72.47574,
+    "selectable": false
+  },
+  {
+    "name": "Apulo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4084,
+    "lat": 4.51952,
+    "lon": -74.59293,
+    "selectable": false
+  },
+  {
+    "name": "Quipile",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1896,
+    "lat": 4.74806,
+    "lon": -74.56306,
+    "selectable": false
+  },
+  {
+    "name": "Quinchía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 10895,
+    "lat": 5.33957,
+    "lon": -75.73018,
+    "selectable": false
+  },
+  {
+    "name": "Quimbaya",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 31391,
+    "lat": 4.62306,
+    "lon": -75.76278,
+    "selectable": false
+  },
+  {
+    "name": "Quibdó",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "11",
+    "population": 75104,
+    "lat": 5.69472,
+    "lon": -76.66111,
+    "selectable": false
+  },
+  {
+    "name": "Quetame",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1374,
+    "lat": 4.33234,
+    "lon": -73.86142,
+    "selectable": false
+  },
+  {
+    "name": "Purísima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 7043,
+    "lat": 9.23657,
+    "lon": -75.7219,
+    "selectable": false
+  },
+  {
+    "name": "Purificación",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 10846,
+    "lat": 3.8587,
+    "lon": -74.93129,
+    "selectable": false
+  },
+  {
+    "name": "Pupiales",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 6760,
+    "lat": 0.87136,
+    "lon": -77.64027,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Wilches",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 13705,
+    "lat": 7.34828,
+    "lon": -73.89601,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Triunfo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 4055,
+    "lat": 5.87262,
+    "lon": -74.64029,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Tejada",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "09",
+    "population": 53674,
+    "lat": 3.23114,
+    "lon": -76.41668,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Santander",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 16275,
+    "lat": 8.36361,
+    "lon": -72.4063,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Salgar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 9863,
+    "lat": 5.46304,
+    "lon": -74.65436,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Rondón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 3724,
+    "lat": 6.28048,
+    "lon": -71.1,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Yuca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 5029,
+    "lat": 2.93833,
+    "lon": -73.20833,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Rico",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "08",
+    "population": 12306,
+    "lat": 1.91417,
+    "lon": -75.145,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Parra",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1448,
+    "lat": 6.65149,
+    "lon": -74.05734,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Nariño",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 2113,
+    "lat": -3.77028,
+    "lon": -70.38306,
+    "selectable": false
+  },
+  {
+    "name": "Puerto López",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 16678,
+    "lat": 4.08451,
+    "lon": -72.95597,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Lleras",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 5076,
+    "lat": 3.02225,
+    "lon": -73.4044,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Leguízamo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 9098,
+    "lat": -0.19337,
+    "lon": -74.78189,
+    "selectable": false
+  },
+  {
+    "name": "Inírida",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "15",
+    "population": 7298,
+    "lat": 3.86528,
+    "lon": -67.92389,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Escondido",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 3020,
+    "lat": 9.0181,
+    "lon": -76.26413,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Colombia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 26227,
+    "lat": 10.98778,
+    "lon": -74.95472,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Carreño",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "31",
+    "population": 10216,
+    "lat": 6.18903,
+    "lon": -67.48588,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Boyacá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 27310,
+    "lat": 5.97584,
+    "lon": -74.58846,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Berrío",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 33983,
+    "lat": 6.49156,
+    "lon": -74.40326,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Asís",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 29782,
+    "lat": 0.51328,
+    "lon": -76.50075,
+    "selectable": false
+  },
+  {
+    "name": "Puerres",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3812,
+    "lat": 1.19374,
+    "lon": -77.26661,
+    "selectable": false
+  },
+  {
+    "name": "Puente Nacional",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 5774,
+    "lat": 5.8774,
+    "lon": -73.6781,
+    "selectable": false
+  },
+  {
+    "name": "Puebloviejo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 13523,
+    "lat": 10.99376,
+    "lon": -74.28438,
+    "selectable": false
+  },
+  {
+    "name": "Pueblorrico",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5327,
+    "lat": 5.79176,
+    "lon": -75.84101,
+    "selectable": false
+  },
+  {
+    "name": "Pueblo Rico",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 4165,
+    "lat": 5.23833,
+    "lon": -76.03639,
+    "selectable": false
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 9075,
+    "lat": 8.2411,
+    "lon": -74.95815,
+    "selectable": false
+  },
+  {
+    "name": "Providencia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3326,
+    "lat": 1.56976,
+    "lon": -77.464,
+    "selectable": false
+  },
+  {
+    "name": "Prado",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 3556,
+    "lat": 3.75024,
+    "lon": -74.92932,
+    "selectable": false
+  },
+  {
+    "name": "Pradera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 44630,
+    "lat": 3.42111,
+    "lon": -76.24472,
+    "selectable": false
+  },
+  {
+    "name": "Potosí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3979,
+    "lat": 0.80739,
+    "lon": -77.57216,
+    "selectable": false
+  },
+  {
+    "name": "Pore",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 4133,
+    "lat": 5.72722,
+    "lon": -71.99472,
+    "selectable": false
+  },
+  {
+    "name": "Popayán",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "09",
+    "population": 258653,
+    "lat": 2.43823,
+    "lon": -76.61316,
+    "selectable": false
+  },
+  {
+    "name": "Ponedera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 11221,
+    "lat": 10.64104,
+    "lon": -74.75026,
+    "selectable": false
+  },
+  {
+    "name": "Polonuevo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 11727,
+    "lat": 10.77697,
+    "lon": -74.85344,
+    "selectable": false
+  },
+  {
+    "name": "Policarpa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2377,
+    "lat": 1.63231,
+    "lon": -77.46199,
+    "selectable": false
+  },
+  {
+    "name": "Planeta Rica",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 37297,
+    "lat": 8.41472,
+    "lon": -75.58833,
+    "selectable": false
+  },
+  {
+    "name": "Planadas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 9709,
+    "lat": 3.19698,
+    "lon": -75.64506,
+    "selectable": false
+  },
+  {
+    "name": "Pizarro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 6168,
+    "lat": 4.95334,
+    "lon": -77.36598,
+    "selectable": false
+  },
+  {
+    "name": "Francisco Pizarro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 6105,
+    "lat": 2.10194,
+    "lon": -78.72167,
+    "selectable": false
+  },
+  {
+    "name": "Pivijay",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 33492,
+    "lat": 10.46168,
+    "lon": -74.61621,
+    "selectable": false
+  },
+  {
+    "name": "Pitalito",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 53685,
+    "lat": 1.84966,
+    "lon": -76.04785,
+    "selectable": false
+  },
+  {
+    "name": "Pital",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 3957,
+    "lat": 2.2665,
+    "lon": -75.80442,
+    "selectable": false
+  },
+  {
+    "name": "Piojó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 3388,
+    "lat": 10.74846,
+    "lon": -75.10776,
+    "selectable": false
+  },
+  {
+    "name": "Pinillos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 6218,
+    "lat": 8.91925,
+    "lon": -74.46771,
+    "selectable": false
+  },
+  {
+    "name": "Pijiño",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 5390,
+    "lat": 9.32908,
+    "lon": -74.45302,
+    "selectable": false
+  },
+  {
+    "name": "Pijao",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 5668,
+    "lat": 4.33419,
+    "lon": -75.70348,
+    "selectable": false
+  },
+  {
+    "name": "Piedras",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 1172,
+    "lat": 4.53833,
+    "lon": -74.88175,
+    "selectable": false
+  },
+  {
+    "name": "Piedrancha",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 1788,
+    "lat": 1.1374,
+    "lon": -77.8489,
+    "selectable": false
+  },
+  {
+    "name": "Pié de Pató",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 3242,
+    "lat": 5.51604,
+    "lon": -76.97449,
+    "selectable": false
+  },
+  {
+    "name": "Piedecuesta",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 86387,
+    "lat": 6.98789,
+    "lon": -73.04953,
+    "selectable": false
+  },
+  {
+    "name": "Pesca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 5113,
+    "lat": 5.55,
+    "lon": -73.05,
+    "selectable": false
+  },
+  {
+    "name": "Pereira",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "24",
+    "population": 440118,
+    "lat": 4.81333,
+    "lon": -75.69611,
+    "selectable": false
+  },
+  {
+    "name": "Peque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1793,
+    "lat": 7.02122,
+    "lon": -75.90926,
+    "selectable": false
+  },
+  {
+    "name": "Pensilvania",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 8173,
+    "lat": 5.38346,
+    "lon": -75.16122,
+    "selectable": false
+  },
+  {
+    "name": "Pelaya",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 11306,
+    "lat": 8.68819,
+    "lon": -73.66452,
+    "selectable": false
+  },
+  {
+    "name": "Pedraza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 3677,
+    "lat": 10.18739,
+    "lon": -74.91504,
+    "selectable": false
+  },
+  {
+    "name": "Payán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2892,
+    "lat": 1.935,
+    "lon": -78.205,
+    "selectable": false
+  },
+  {
+    "name": "Pauna",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2663,
+    "lat": 5.65861,
+    "lon": -73.9825,
+    "selectable": false
+  },
+  {
+    "name": "Patía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 20807,
+    "lat": 2.06895,
+    "lon": -77.05273,
+    "selectable": false
+  },
+  {
+    "name": "Pasto",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "20",
+    "population": 382236,
+    "lat": 1.21361,
+    "lon": -77.28111,
+    "selectable": false
+  },
+  {
+    "name": "Pasca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 3169,
+    "lat": 4.30722,
+    "lon": -74.30056,
+    "selectable": false
+  },
+  {
+    "name": "Pandi",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1336,
+    "lat": 4.19111,
+    "lon": -74.4875,
+    "selectable": false
+  },
+  {
+    "name": "Pamplona",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 53587,
+    "lat": 7.37565,
+    "lon": -72.64795,
+    "selectable": false
+  },
+  {
+    "name": "Palocabildo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 3534,
+    "lat": 5.11705,
+    "lon": -75.01732,
+    "selectable": false
+  },
+  {
+    "name": "Palmito",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 3992,
+    "lat": 9.33333,
+    "lon": -75.55,
+    "selectable": false
+  },
+  {
+    "name": "Palmira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 247986,
+    "lat": 3.53944,
+    "lon": -76.30361,
+    "selectable": false
+  },
+  {
+    "name": "Palmar de Varela",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 28084,
+    "lat": 10.74055,
+    "lon": -74.75443,
+    "selectable": false
+  },
+  {
+    "name": "Palestina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 7865,
+    "lat": 5.0194,
+    "lon": -75.62242,
+    "selectable": false
+  },
+  {
+    "name": "Palestina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 2027,
+    "lat": 1.72362,
+    "lon": -76.13403,
+    "selectable": false
+  },
+  {
+    "name": "Palermo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 9896,
+    "lat": 2.89167,
+    "lon": -75.4375,
+    "selectable": false
+  },
+  {
+    "name": "Pajarito",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 1258,
+    "lat": 5.2929,
+    "lon": -72.70277,
+    "selectable": false
+  },
+  {
+    "name": "Paispamba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 1390,
+    "lat": 2.25462,
+    "lon": -76.61086,
+    "selectable": false
+  },
+  {
+    "name": "Paipa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 13554,
+    "lat": 5.78013,
+    "lon": -73.11708,
+    "selectable": false
+  },
+  {
+    "name": "Pailitas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 10480,
+    "lat": 8.95652,
+    "lon": -73.62548,
+    "selectable": false
+  },
+  {
+    "name": "Paicol",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 1681,
+    "lat": 2.44962,
+    "lon": -75.775,
+    "selectable": false
+  },
+  {
+    "name": "Páez",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1220,
+    "lat": 5.10112,
+    "lon": -73.05122,
+    "selectable": false
+  },
+  {
+    "name": "Belalcazar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 31800,
+    "lat": 2.65472,
+    "lon": -75.99278,
+    "selectable": false
+  },
+  {
+    "name": "Padilla",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 4472,
+    "lat": 3.22038,
+    "lon": -76.31385,
+    "selectable": false
+  },
+  {
+    "name": "Pácora",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 8218,
+    "lat": 5.52708,
+    "lon": -75.4593,
+    "selectable": false
+  },
+  {
+    "name": "Pacho",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 16698,
+    "lat": 5.13278,
+    "lon": -74.15977,
+    "selectable": false
+  },
+  {
+    "name": "Ovejas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 13284,
+    "lat": 9.53248,
+    "lon": -75.22382,
+    "selectable": false
+  },
+  {
+    "name": "Otanche",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 3589,
+    "lat": 5.65672,
+    "lon": -74.18249,
+    "selectable": false
+  },
+  {
+    "name": "Ospina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2747,
+    "lat": 1.0595,
+    "lon": -77.56554,
+    "selectable": false
+  },
+  {
+    "name": "Ortega",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 6871,
+    "lat": 3.9361,
+    "lon": -75.22169,
+    "selectable": false
+  },
+  {
+    "name": "Orocué",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 2835,
+    "lat": 4.79118,
+    "lon": -71.33542,
+    "selectable": false
+  },
+  {
+    "name": "Oporapa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 2310,
+    "lat": 2.05015,
+    "lon": -75.97675,
+    "selectable": false
+  },
+  {
+    "name": "Onzaga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1393,
+    "lat": 6.34434,
+    "lon": -72.81726,
+    "selectable": false
+  },
+  {
+    "name": "Olaya Herrera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 9820,
+    "lat": 1.24803,
+    "lon": -77.49086,
+    "selectable": false
+  },
+  {
+    "name": "Oiba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 3959,
+    "lat": 6.26388,
+    "lon": -73.29876,
+    "selectable": false
+  },
+  {
+    "name": "Ocaña",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 83511,
+    "lat": 8.23773,
+    "lon": -73.35604,
+    "selectable": false
+  },
+  {
+    "name": "Obando",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "29",
+    "population": 7298,
+    "lat": 4.57583,
+    "lon": -75.97389,
+    "selectable": false
+  },
+  {
+    "name": "Nuquí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 2741,
+    "lat": 5.7125,
+    "lon": -77.27083,
+    "selectable": false
+  },
+  {
+    "name": "Nunchía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 1282,
+    "lat": 5.64056,
+    "lon": -72.19861,
+    "selectable": false
+  },
+  {
+    "name": "Nueva Granada",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 2714,
+    "lat": 9.80168,
+    "lon": -74.39304,
+    "selectable": false
+  },
+  {
+    "name": "Nóvita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 1898,
+    "lat": 4.95511,
+    "lon": -76.60526,
+    "selectable": false
+  },
+  {
+    "name": "Norcasia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 5976,
+    "lat": 5.57782,
+    "lon": -74.88521,
+    "selectable": false
+  },
+  {
+    "name": "Nocaima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2475,
+    "lat": 5.06983,
+    "lon": -74.378,
+    "selectable": false
+  },
+  {
+    "name": "Nobsa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 3360,
+    "lat": 5.76978,
+    "lon": -72.94099,
+    "selectable": false
+  },
+  {
+    "name": "Nilo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1117,
+    "lat": 4.30604,
+    "lon": -74.62083,
+    "selectable": false
+  },
+  {
+    "name": "Nemocón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 5466,
+    "lat": 5.05,
+    "lon": -73.88333,
+    "selectable": false
+  },
+  {
+    "name": "Neiva",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "16",
+    "population": 352855,
+    "lat": 2.9273,
+    "lon": -75.28188,
+    "selectable": false
+  },
+  {
+    "name": "Neira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 11755,
+    "lat": 5.1665,
+    "lon": -75.52001,
+    "selectable": false
+  },
+  {
+    "name": "Necoclí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 10835,
+    "lat": 8.42342,
+    "lon": -76.78597,
+    "selectable": false
+  },
+  {
+    "name": "Nechí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 6693,
+    "lat": 8.09419,
+    "lon": -74.77573,
+    "selectable": false
+  },
+  {
+    "name": "Natagaima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 11217,
+    "lat": 3.62057,
+    "lon": -75.09415,
+    "selectable": false
+  },
+  {
+    "name": "Nátaga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 2232,
+    "lat": 2.54359,
+    "lon": -75.80852,
+    "selectable": false
+  },
+  {
+    "name": "Nariño",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3186,
+    "lat": 5.60893,
+    "lon": -75.17656,
+    "selectable": false
+  },
+  {
+    "name": "Nariño",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1213,
+    "lat": 4.39781,
+    "lon": -74.82731,
+    "selectable": false
+  },
+  {
+    "name": "Nariño",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2933,
+    "lat": 1.28995,
+    "lon": -77.35722,
+    "selectable": false
+  },
+  {
+    "name": "Muzo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 7977,
+    "lat": 5.53528,
+    "lon": -74.10778,
+    "selectable": false
+  },
+  {
+    "name": "Mutatá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 4811,
+    "lat": 7.24407,
+    "lon": -76.43564,
+    "selectable": false
+  },
+  {
+    "name": "Murindó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2372,
+    "lat": 6.98481,
+    "lon": -76.75439,
+    "selectable": false
+  },
+  {
+    "name": "Murillo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 1860,
+    "lat": 4.87393,
+    "lon": -75.17151,
+    "selectable": false
+  },
+  {
+    "name": "Mountain",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "25",
+    "population": 2404,
+    "lat": 13.36667,
+    "lon": -81.36667,
+    "selectable": false
+  },
+  {
+    "name": "Mosquera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 27005,
+    "lat": 4.70592,
+    "lon": -74.23021,
+    "selectable": false
+  },
+  {
+    "name": "Mosquera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3471,
+    "lat": 2.50861,
+    "lon": -78.4511,
+    "selectable": false
+  },
+  {
+    "name": "Morroa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 4949,
+    "lat": 9.33348,
+    "lon": -75.30542,
+    "selectable": false
+  },
+  {
+    "name": "Morelia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 2257,
+    "lat": 1.48747,
+    "lon": -75.72581,
+    "selectable": false
+  },
+  {
+    "name": "Morales",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 20375,
+    "lat": 8.2752,
+    "lon": -73.86884,
+    "selectable": false
+  },
+  {
+    "name": "Montería",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "12",
+    "population": 272420,
+    "lat": 8.74798,
+    "lon": -75.88143,
+    "selectable": false
+  },
+  {
+    "name": "Montenegro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 36499,
+    "lat": 4.56639,
+    "lon": -75.75111,
+    "selectable": false
+  },
+  {
+    "name": "Montelíbano",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 85000,
+    "lat": 7.97917,
+    "lon": -75.4202,
+    "selectable": false
+  },
+  {
+    "name": "Montecristo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 5608,
+    "lat": 8.2971,
+    "lon": -74.4733,
+    "selectable": false
+  },
+  {
+    "name": "Montebello",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2007,
+    "lat": 5.94806,
+    "lon": -75.5275,
+    "selectable": false
+  },
+  {
+    "name": "Moñitos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 5385,
+    "lat": 8.25,
+    "lon": -76.05,
+    "selectable": false
+  },
+  {
+    "name": "Moniquirá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 9785,
+    "lat": 5.87638,
+    "lon": -73.57284,
+    "selectable": false
+  },
+  {
+    "name": "Monguí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2299,
+    "lat": 5.72151,
+    "lon": -72.84908,
+    "selectable": false
+  },
+  {
+    "name": "Mongua",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2322,
+    "lat": 5.75084,
+    "lon": -72.80339,
+    "selectable": false
+  },
+  {
+    "name": "Mompós",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 30861,
+    "lat": 9.24194,
+    "lon": -74.42667,
+    "selectable": false
+  },
+  {
+    "name": "Momil",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 6441,
+    "lat": 9.23768,
+    "lon": -75.67489,
+    "selectable": false
+  },
+  {
+    "name": "Molagavita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1205,
+    "lat": 6.67315,
+    "lon": -72.80875,
+    "selectable": false
+  },
+  {
+    "name": "Mogotes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 3438,
+    "lat": 6.47559,
+    "lon": -72.97046,
+    "selectable": false
+  },
+  {
+    "name": "Mocoa",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "22",
+    "population": 22035,
+    "lat": 1.14933,
+    "lon": -76.64661,
+    "selectable": false
+  },
+  {
+    "name": "Mitú",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "30",
+    "population": 5917,
+    "lat": 1.19833,
+    "lon": -70.17333,
+    "selectable": false
+  },
+  {
+    "name": "Mistrató",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 6263,
+    "lat": 5.2973,
+    "lon": -75.88322,
+    "selectable": false
+  },
+  {
+    "name": "Miranda",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "09",
+    "population": 13223,
+    "lat": 3.24991,
+    "lon": -76.22814,
+    "selectable": false
+  },
+  {
+    "name": "Miraflores",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2766,
+    "lat": 5.19608,
+    "lon": -73.14504,
+    "selectable": false
+  },
+  {
+    "name": "Miraflores",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "14",
+    "population": 4864,
+    "lat": 1.33667,
+    "lon": -71.95111,
+    "selectable": false
+  },
+  {
+    "name": "Milán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 2618,
+    "lat": 1.29205,
+    "lon": -75.51167,
+    "selectable": false
+  },
+  {
+    "name": "Mercaderes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 4684,
+    "lat": 1.80094,
+    "lon": -77.16596,
+    "selectable": false
+  },
+  {
+    "name": "Melgar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 25980,
+    "lat": 4.20475,
+    "lon": -74.64075,
+    "selectable": false
+  },
+  {
+    "name": "Medina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 3098,
+    "lat": 4.51005,
+    "lon": -73.34982,
+    "selectable": false
+  },
+  {
+    "name": "Medellín",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "02",
+    "population": 1999979,
+    "lat": 6.25184,
+    "lon": -75.56359,
+    "selectable": true
+  },
+  {
+    "name": "Matanza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1669,
+    "lat": 7.32233,
+    "lon": -73.01516,
+    "selectable": false
+  },
+  {
+    "name": "Marulanda",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 1256,
+    "lat": 5.28393,
+    "lon": -75.26016,
+    "selectable": false
+  },
+  {
+    "name": "Marsella",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 11158,
+    "lat": 4.93722,
+    "lon": -75.73778,
+    "selectable": false
+  },
+  {
+    "name": "Marquetalia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 6224,
+    "lat": 5.29659,
+    "lon": -75.05496,
+    "selectable": false
+  },
+  {
+    "name": "Marmato",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 1456,
+    "lat": 5.47843,
+    "lon": -75.59267,
+    "selectable": false
+  },
+  {
+    "name": "Mariquita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 23104,
+    "lat": 5.19889,
+    "lon": -74.89295,
+    "selectable": false
+  },
+  {
+    "name": "Maripí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1143,
+    "lat": 5.55194,
+    "lon": -74.00861,
+    "selectable": false
+  },
+  {
+    "name": "Marinilla",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 24171,
+    "lat": 6.17358,
+    "lon": -75.33621,
+    "selectable": false
+  },
+  {
+    "name": "María la Baja",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 23401,
+    "lat": 9.9832,
+    "lon": -75.30155,
+    "selectable": false
+  },
+  {
+    "name": "Margarita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 1939,
+    "lat": 9.15596,
+    "lon": -74.26618,
+    "selectable": false
+  },
+  {
+    "name": "Manzanares",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 16278,
+    "lat": 5.32472,
+    "lon": -75.15694,
+    "selectable": false
+  },
+  {
+    "name": "Manta",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1410,
+    "lat": 5.00864,
+    "lon": -73.54115,
+    "selectable": false
+  },
+  {
+    "name": "Manizales",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "37",
+    "population": 357814,
+    "lat": 5.06889,
+    "lon": -75.51738,
+    "selectable": false
+  },
+  {
+    "name": "Maní",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 7031,
+    "lat": 4.81722,
+    "lon": -72.28861,
+    "selectable": false
+  },
+  {
+    "name": "Manaure",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 9703,
+    "lat": 11.77505,
+    "lon": -72.44447,
+    "selectable": false
+  },
+  {
+    "name": "Manatí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 14140,
+    "lat": 10.44589,
+    "lon": -74.95869,
+    "selectable": false
+  },
+  {
+    "name": "Malambo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 101534,
+    "lat": 10.85953,
+    "lon": -74.77386,
+    "selectable": false
+  },
+  {
+    "name": "Málaga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 18739,
+    "lat": 6.69903,
+    "lon": -72.73233,
+    "selectable": false
+  },
+  {
+    "name": "Majagual",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 11139,
+    "lat": 8.53886,
+    "lon": -74.62038,
+    "selectable": false
+  },
+  {
+    "name": "Maicao",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 130348,
+    "lat": 11.38321,
+    "lon": -72.24321,
+    "selectable": false
+  },
+  {
+    "name": "Mahates",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 9224,
+    "lat": 10.23293,
+    "lon": -75.18985,
+    "selectable": false
+  },
+  {
+    "name": "Magangué",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 100313,
+    "lat": 9.24202,
+    "lon": -74.75467,
+    "selectable": false
+  },
+  {
+    "name": "Madrid",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 50437,
+    "lat": 4.73244,
+    "lon": -74.26419,
+    "selectable": false
+  },
+  {
+    "name": "Machetá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1742,
+    "lat": 5.08154,
+    "lon": -73.60761,
+    "selectable": false
+  },
+  {
+    "name": "Maceo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3109,
+    "lat": 6.55196,
+    "lon": -74.78742,
+    "selectable": false
+  },
+  {
+    "name": "Luruaco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 13236,
+    "lat": 10.60921,
+    "lon": -75.14309,
+    "selectable": false
+  },
+  {
+    "name": "Lourdes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1500,
+    "lat": 7.94411,
+    "lon": -72.83253,
+    "selectable": false
+  },
+  {
+    "name": "Los Patios",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 58661,
+    "lat": 7.83793,
+    "lon": -72.5037,
+    "selectable": false
+  },
+  {
+    "name": "Los Palmitos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 14385,
+    "lat": 9.37899,
+    "lon": -75.26769,
+    "selectable": false
+  },
+  {
+    "name": "Los Córdobas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 2007,
+    "lat": 8.89403,
+    "lon": -76.35455,
+    "selectable": false
+  },
+  {
+    "name": "Lorica",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 40605,
+    "lat": 9.23648,
+    "lon": -75.8135,
+    "selectable": false
+  },
+  {
+    "name": "López",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 3699,
+    "lat": 2.43333,
+    "lon": -76.8,
+    "selectable": false
+  },
+  {
+    "name": "Lloró",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 2651,
+    "lat": 5.49605,
+    "lon": -76.54945,
+    "selectable": false
+  },
+  {
+    "name": "Linares",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3512,
+    "lat": 1.35783,
+    "lon": -77.52725,
+    "selectable": false
+  },
+  {
+    "name": "Liborina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2373,
+    "lat": 6.6779,
+    "lon": -75.81218,
+    "selectable": false
+  },
+  {
+    "name": "Líbano",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 28211,
+    "lat": 4.9218,
+    "lon": -75.06232,
+    "selectable": false
+  },
+  {
+    "name": "Leticia",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "01",
+    "population": 29666,
+    "lat": -4.21528,
+    "lon": -69.94056,
+    "selectable": false
+  },
+  {
+    "name": "Lérida",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 20069,
+    "lat": 4.86242,
+    "lon": -74.90977,
+    "selectable": false
+  },
+  {
+    "name": "Lenguazaque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2555,
+    "lat": 5.30711,
+    "lon": -73.71152,
+    "selectable": false
+  },
+  {
+    "name": "Leiva",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3668,
+    "lat": 1.93389,
+    "lon": -77.30253,
+    "selectable": false
+  },
+  {
+    "name": "Lebrija",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 8949,
+    "lat": 7.11317,
+    "lon": -73.2178,
+    "selectable": false
+  },
+  {
+    "name": "La Virginia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 33835,
+    "lat": 4.89972,
+    "lon": -75.8825,
+    "selectable": false
+  },
+  {
+    "name": "La Victoria",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 11064,
+    "lat": 4.52271,
+    "lon": -76.03738,
+    "selectable": false
+  },
+  {
+    "name": "La Vega",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 5706,
+    "lat": 4.99779,
+    "lon": -74.33979,
+    "selectable": false
+  },
+  {
+    "name": "La Vega",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 3469,
+    "lat": 2.00628,
+    "lon": -76.78028,
+    "selectable": false
+  },
+  {
+    "name": "La Uvita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1708,
+    "lat": 6.31684,
+    "lon": -72.56032,
+    "selectable": false
+  },
+  {
+    "name": "La Unión",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 4427,
+    "lat": 8.86056,
+    "lon": -75.28056,
+    "selectable": false
+  },
+  {
+    "name": "La Unión",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 8361,
+    "lat": 5.97431,
+    "lon": -75.36195,
+    "selectable": false
+  },
+  {
+    "name": "La Unión",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "29",
+    "population": 23459,
+    "lat": 4.53282,
+    "lon": -76.10318,
+    "selectable": false
+  },
+  {
+    "name": "La Unión",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 15061,
+    "lat": 1.6045,
+    "lon": -77.13152,
+    "selectable": false
+  },
+  {
+    "name": "La Tebaida",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "23",
+    "population": 27098,
+    "lat": 4.45265,
+    "lon": -75.78746,
+    "selectable": false
+  },
+  {
+    "name": "La Sierra",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 2129,
+    "lat": 2.17835,
+    "lon": -76.76265,
+    "selectable": false
+  },
+  {
+    "name": "La Primavera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "31",
+    "population": 3920,
+    "lat": 5.49056,
+    "lon": -70.40917,
+    "selectable": false
+  },
+  {
+    "name": "La Playa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1215,
+    "lat": 8.21639,
+    "lon": -73.24139,
+    "selectable": false
+  },
+  {
+    "name": "La Plata",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 19275,
+    "lat": 2.39341,
+    "lon": -75.89232,
+    "selectable": false
+  },
+  {
+    "name": "La Pintada",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5342,
+    "lat": 5.74867,
+    "lon": -75.60626,
+    "selectable": false
+  },
+  {
+    "name": "La Peña",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1667,
+    "lat": 5.19847,
+    "lon": -74.39368,
+    "selectable": false
+  },
+  {
+    "name": "La Paz",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 13249,
+    "lat": 10.38439,
+    "lon": -73.17332,
+    "selectable": false
+  },
+  {
+    "name": "La Paz",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1135,
+    "lat": 6.17848,
+    "lon": -73.58948,
+    "selectable": false
+  },
+  {
+    "name": "Landázuri",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 3483,
+    "lat": 6.21826,
+    "lon": -73.81121,
+    "selectable": false
+  },
+  {
+    "name": "La Montañita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 3305,
+    "lat": 1.4766,
+    "lon": -75.4398,
+    "selectable": false
+  },
+  {
+    "name": "La Mesa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 26699,
+    "lat": 5.26667,
+    "lon": -73.91667,
+    "selectable": false
+  },
+  {
+    "name": "La Merced",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 3851,
+    "lat": 5.40194,
+    "lon": -75.88472,
+    "selectable": false
+  },
+  {
+    "name": "La Llanada",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2747,
+    "lat": 1.48997,
+    "lon": -77.58347,
+    "selectable": false
+  },
+  {
+    "name": "La Jagua de Ibirico",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 18555,
+    "lat": 9.56228,
+    "lon": -73.33405,
+    "selectable": false
+  },
+  {
+    "name": "La Gloria",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 6810,
+    "lat": 8.61868,
+    "lon": -73.80265,
+    "selectable": false
+  },
+  {
+    "name": "La Florida",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2882,
+    "lat": 1.29851,
+    "lon": -77.40614,
+    "selectable": false
+  },
+  {
+    "name": "La Estrella",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 49386,
+    "lat": 6.15769,
+    "lon": -75.64317,
+    "selectable": false
+  },
+  {
+    "name": "La Esperanza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 2718,
+    "lat": 8.21043,
+    "lon": -72.46399,
+    "selectable": false
+  },
+  {
+    "name": "La Dorada",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 81950,
+    "lat": 5.44783,
+    "lon": -74.66311,
+    "selectable": false
+  },
+  {
+    "name": "La Cruz",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 8751,
+    "lat": 1.60301,
+    "lon": -76.96901,
+    "selectable": false
+  },
+  {
+    "name": "La Celia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 4940,
+    "lat": 5.04333,
+    "lon": -76.01667,
+    "selectable": false
+  },
+  {
+    "name": "La Ceja",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 36584,
+    "lat": 6.03082,
+    "lon": -75.4315,
+    "selectable": false
+  },
+  {
+    "name": "La Capilla",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1375,
+    "lat": 5.70493,
+    "lon": -73.47527,
+    "selectable": false
+  },
+  {
+    "name": "La Calera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 10175,
+    "lat": 4.72069,
+    "lon": -73.96926,
+    "selectable": false
+  },
+  {
+    "name": "La Belleza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1649,
+    "lat": 5.86371,
+    "lon": -73.96167,
+    "selectable": false
+  },
+  {
+    "name": "Juradó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 2351,
+    "lat": 7.10534,
+    "lon": -77.76413,
+    "selectable": false
+  },
+  {
+    "name": "Junín",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1499,
+    "lat": 4.79027,
+    "lon": -73.66011,
+    "selectable": false
+  },
+  {
+    "name": "Juan de Acosta",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 8655,
+    "lat": 10.82813,
+    "lon": -75.03341,
+    "selectable": false
+  },
+  {
+    "name": "Jericó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7750,
+    "lat": 5.79211,
+    "lon": -75.78601,
+    "selectable": false
+  },
+  {
+    "name": "Jenesano",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1200,
+    "lat": 5.38541,
+    "lon": -73.36364,
+    "selectable": false
+  },
+  {
+    "name": "Jardín",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7747,
+    "lat": 5.59902,
+    "lon": -75.81976,
+    "selectable": false
+  },
+  {
+    "name": "Jamundí",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "29",
+    "population": 44833,
+    "lat": 3.26074,
+    "lon": -76.53499,
+    "selectable": false
+  },
+  {
+    "name": "Jambaló",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 1972,
+    "lat": 2.79225,
+    "lon": -76.32258,
+    "selectable": false
+  },
+  {
+    "name": "Ituango",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 10769,
+    "lat": 7.17117,
+    "lon": -75.76404,
+    "selectable": false
+  },
+  {
+    "name": "Itagüí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 281853,
+    "lat": 6.18461,
+    "lon": -75.59913,
+    "selectable": false
+  },
+  {
+    "name": "Istmina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 13788,
+    "lat": 5.16054,
+    "lon": -76.68397,
+    "selectable": false
+  },
+  {
+    "name": "Iscuandé",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 4875,
+    "lat": 2.45007,
+    "lon": -77.97936,
+    "selectable": false
+  },
+  {
+    "name": "Íquira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 3942,
+    "lat": 2.64867,
+    "lon": -75.63457,
+    "selectable": false
+  },
+  {
+    "name": "Ipiales",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 77729,
+    "lat": 0.83018,
+    "lon": -77.64959,
+    "selectable": false
+  },
+  {
+    "name": "Inzá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 2972,
+    "lat": 2.5513,
+    "lon": -76.06546,
+    "selectable": false
+  },
+  {
+    "name": "Imués",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 1736,
+    "lat": 1.05295,
+    "lon": -77.50171,
+    "selectable": false
+  },
+  {
+    "name": "Iles",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 1879,
+    "lat": 0.97491,
+    "lon": -77.52741,
+    "selectable": false
+  },
+  {
+    "name": "Icononzo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 3540,
+    "lat": 4.17698,
+    "lon": -74.53254,
+    "selectable": false
+  },
+  {
+    "name": "Ibagué",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "28",
+    "population": 421685,
+    "lat": 4.43889,
+    "lon": -75.23222,
+    "selectable": false
+  },
+  {
+    "name": "Honda",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 28158,
+    "lat": 5.20856,
+    "lon": -74.73584,
+    "selectable": false
+  },
+  {
+    "name": "Hobo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 4444,
+    "lat": 2.58333,
+    "lon": -75.45,
+    "selectable": false
+  },
+  {
+    "name": "Hispania",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2468,
+    "lat": 5.79925,
+    "lon": -75.90718,
+    "selectable": false
+  },
+  {
+    "name": "Herveo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 3490,
+    "lat": 5.08333,
+    "lon": -75.16667,
+    "selectable": false
+  },
+  {
+    "name": "Herrán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1648,
+    "lat": 7.50611,
+    "lon": -72.48332,
+    "selectable": false
+  },
+  {
+    "name": "Heliconia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2403,
+    "lat": 6.20689,
+    "lon": -75.73367,
+    "selectable": false
+  },
+  {
+    "name": "Municipio Hato Corozal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 2640,
+    "lat": 6.15676,
+    "lon": -71.76372,
+    "selectable": false
+  },
+  {
+    "name": "Hatillo de Loba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 3639,
+    "lat": 8.95635,
+    "lon": -74.0782,
+    "selectable": false
+  },
+  {
+    "name": "Hacarí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1502,
+    "lat": 8.32333,
+    "lon": -73.14889,
+    "selectable": false
+  },
+  {
+    "name": "Güicán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2101,
+    "lat": 6.46184,
+    "lon": -72.41129,
+    "selectable": false
+  },
+  {
+    "name": "Güepsa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2471,
+    "lat": 6.02505,
+    "lon": -73.57313,
+    "selectable": false
+  },
+  {
+    "name": "Guayatá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2857,
+    "lat": 4.96417,
+    "lon": -73.4875,
+    "selectable": false
+  },
+  {
+    "name": "Guayabetal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2017,
+    "lat": 4.21472,
+    "lon": -73.81719,
+    "selectable": false
+  },
+  {
+    "name": "Guayabal de Síquima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1051,
+    "lat": 4.87739,
+    "lon": -74.46744,
+    "selectable": false
+  },
+  {
+    "name": "Guática",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 4368,
+    "lat": 5.31569,
+    "lon": -75.79826,
+    "selectable": false
+  },
+  {
+    "name": "Guateque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 7069,
+    "lat": 5.00619,
+    "lon": -73.47274,
+    "selectable": false
+  },
+  {
+    "name": "Guatavita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1920,
+    "lat": 4.93658,
+    "lon": -73.83314,
+    "selectable": false
+  },
+  {
+    "name": "Guataquí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1139,
+    "lat": 4.51573,
+    "lon": -74.78935,
+    "selectable": false
+  },
+  {
+    "name": "Guatapé",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5389,
+    "lat": 6.23274,
+    "lon": -75.15864,
+    "selectable": false
+  },
+  {
+    "name": "Guasca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 3540,
+    "lat": 4.86601,
+    "lon": -73.87748,
+    "selectable": false
+  },
+  {
+    "name": "Guarne",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 14270,
+    "lat": 6.28046,
+    "lon": -75.44354,
+    "selectable": false
+  },
+  {
+    "name": "Guapi",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 13853,
+    "lat": 2.57082,
+    "lon": -77.88542,
+    "selectable": false
+  },
+  {
+    "name": "Guamo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 14881,
+    "lat": 4.03078,
+    "lon": -74.9701,
+    "selectable": false
+  },
+  {
+    "name": "Guamal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 9016,
+    "lat": 9.14334,
+    "lon": -74.22384,
+    "selectable": false
+  },
+  {
+    "name": "Guamal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 5026,
+    "lat": 3.88043,
+    "lon": -73.76566,
+    "selectable": false
+  },
+  {
+    "name": "Gualmatán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2510,
+    "lat": 0.91888,
+    "lon": -77.56651,
+    "selectable": false
+  },
+  {
+    "name": "Guaitarilla",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 6280,
+    "lat": 1.13103,
+    "lon": -77.54814,
+    "selectable": false
+  },
+  {
+    "name": "Guaduas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 14392,
+    "lat": 5.06692,
+    "lon": -74.59499,
+    "selectable": false
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1734,
+    "lat": 6.81449,
+    "lon": -75.24063,
+    "selectable": false
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2181,
+    "lat": 6.2464,
+    "lon": -73.41833,
+    "selectable": false
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 4760,
+    "lat": 2.0248,
+    "lon": -75.75589,
+    "selectable": false
+  },
+  {
+    "name": "Guachucal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 4014,
+    "lat": 0.96093,
+    "lon": -77.7316,
+    "selectable": false
+  },
+  {
+    "name": "Guachetá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4245,
+    "lat": 5.38425,
+    "lon": -73.68617,
+    "selectable": false
+  },
+  {
+    "name": "Guacarí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 19637,
+    "lat": 3.76383,
+    "lon": -76.33292,
+    "selectable": false
+  },
+  {
+    "name": "Guaca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1637,
+    "lat": 6.87621,
+    "lon": -72.85594,
+    "selectable": false
+  },
+  {
+    "name": "Granada",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5661,
+    "lat": 6.14353,
+    "lon": -75.18532,
+    "selectable": false
+  },
+  {
+    "name": "Granada",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1100,
+    "lat": 5.06667,
+    "lon": -74.56667,
+    "selectable": false
+  },
+  {
+    "name": "Granada",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 32365,
+    "lat": 3.54625,
+    "lon": -73.70687,
+    "selectable": false
+  },
+  {
+    "name": "Gramalote",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 3577,
+    "lat": 7.88752,
+    "lon": -72.79749,
+    "selectable": false
+  },
+  {
+    "name": "González",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 5634,
+    "lat": 8.38944,
+    "lon": -73.37989,
+    "selectable": false
+  },
+  {
+    "name": "Gómez Plata",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 4097,
+    "lat": 6.68178,
+    "lon": -75.21906,
+    "selectable": false
+  },
+  {
+    "name": "Girón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 108466,
+    "lat": 7.0682,
+    "lon": -73.16981,
+    "selectable": false
+  },
+  {
+    "name": "Girardot",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 130289,
+    "lat": 4.29866,
+    "lon": -74.80468,
+    "selectable": false
+  },
+  {
+    "name": "Giraldo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1464,
+    "lat": 6.68306,
+    "lon": -75.98917,
+    "selectable": false
+  },
+  {
+    "name": "Ginebra",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 6088,
+    "lat": 3.72461,
+    "lon": -76.26675,
+    "selectable": false
+  },
+  {
+    "name": "Gigante",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 9829,
+    "lat": 2.38677,
+    "lon": -75.54531,
+    "selectable": false
+  },
+  {
+    "name": "Génova",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 7140,
+    "lat": 4.31667,
+    "lon": -75.76667,
+    "selectable": false
+  },
+  {
+    "name": "Génova",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 1348,
+    "lat": 1.64322,
+    "lon": -77.02433,
+    "selectable": false
+  },
+  {
+    "name": "Garzón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 29451,
+    "lat": 2.19593,
+    "lon": -75.62777,
+    "selectable": false
+  },
+  {
+    "name": "Garagoa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 11102,
+    "lat": 5.08236,
+    "lon": -73.36334,
+    "selectable": false
+  },
+  {
+    "name": "Gámeza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1690,
+    "lat": 5.80263,
+    "lon": -72.80586,
+    "selectable": false
+  },
+  {
+    "name": "Gamarra",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 7327,
+    "lat": 8.32279,
+    "lon": -73.74268,
+    "selectable": false
+  },
+  {
+    "name": "Galeras",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 9459,
+    "lat": 9.16095,
+    "lon": -75.04811,
+    "selectable": false
+  },
+  {
+    "name": "Galapa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 19732,
+    "lat": 10.89686,
+    "lon": -74.886,
+    "selectable": false
+  },
+  {
+    "name": "Galán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1122,
+    "lat": 6.63781,
+    "lon": -73.28878,
+    "selectable": false
+  },
+  {
+    "name": "Gachancipá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 3119,
+    "lat": 4.99111,
+    "lon": -73.87154,
+    "selectable": false
+  },
+  {
+    "name": "Gachalá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1661,
+    "lat": 4.69244,
+    "lon": -73.52042,
+    "selectable": false
+  },
+  {
+    "name": "Fusagasuga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 88820,
+    "lat": 4.33646,
+    "lon": -74.36378,
+    "selectable": false
+  },
+  {
+    "name": "Funza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 54421,
+    "lat": 4.71638,
+    "lon": -74.21195,
+    "selectable": false
+  },
+  {
+    "name": "Funes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2508,
+    "lat": 1.00266,
+    "lon": -77.45067,
+    "selectable": false
+  },
+  {
+    "name": "Fundación",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 59175,
+    "lat": 10.52066,
+    "lon": -74.18504,
+    "selectable": false
+  },
+  {
+    "name": "Fuente de Oro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 3609,
+    "lat": 3.46263,
+    "lon": -73.62162,
+    "selectable": false
+  },
+  {
+    "name": "Frontino",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 8603,
+    "lat": 6.78005,
+    "lon": -76.1288,
+    "selectable": false
+  },
+  {
+    "name": "Fresno",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 17668,
+    "lat": 5.15264,
+    "lon": -75.03624,
+    "selectable": false
+  },
+  {
+    "name": "Fosca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1451,
+    "lat": 4.33916,
+    "lon": -73.93852,
+    "selectable": false
+  },
+  {
+    "name": "Municipio de Fortul",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 4607,
+    "lat": 6.79277,
+    "lon": -71.7717,
+    "selectable": false
+  },
+  {
+    "name": "Fonseca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 23509,
+    "lat": 10.88606,
+    "lon": -72.8487,
+    "selectable": false
+  },
+  {
+    "name": "Fómeque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 5389,
+    "lat": 4.48797,
+    "lon": -73.89749,
+    "selectable": false
+  },
+  {
+    "name": "Floridablanca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 252267,
+    "lat": 7.06222,
+    "lon": -73.08644,
+    "selectable": false
+  },
+  {
+    "name": "Florida",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 47173,
+    "lat": 3.3223,
+    "lon": -76.2348,
+    "selectable": false
+  },
+  {
+    "name": "Florián",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1227,
+    "lat": 5.80487,
+    "lon": -73.97029,
+    "selectable": false
+  },
+  {
+    "name": "Floresta",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1127,
+    "lat": 5.85903,
+    "lon": -72.91882,
+    "selectable": false
+  },
+  {
+    "name": "Florencia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 1467,
+    "lat": 1.68318,
+    "lon": -77.0733,
+    "selectable": false
+  },
+  {
+    "name": "Florencia",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "08",
+    "population": 130337,
+    "lat": 1.61438,
+    "lon": -75.60623,
+    "selectable": false
+  },
+  {
+    "name": "Flandes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 20919,
+    "lat": 4.29413,
+    "lon": -74.81901,
+    "selectable": false
+  },
+  {
+    "name": "Firavitoba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2136,
+    "lat": 5.66885,
+    "lon": -72.99289,
+    "selectable": false
+  },
+  {
+    "name": "Filandia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 6851,
+    "lat": 4.67472,
+    "lon": -75.65833,
+    "selectable": false
+  },
+  {
+    "name": "Filadelfia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 5064,
+    "lat": 5.29606,
+    "lon": -75.5612,
+    "selectable": false
+  },
+  {
+    "name": "Falan",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 5234,
+    "lat": 5.11564,
+    "lon": -74.94894,
+    "selectable": false
+  },
+  {
+    "name": "Facatativá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 94611,
+    "lat": 4.81367,
+    "lon": -74.35453,
+    "selectable": false
+  },
+  {
+    "name": "Espinal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 56213,
+    "lat": 4.14924,
+    "lon": -74.88429,
+    "selectable": false
+  },
+  {
+    "name": "Envigado",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 163007,
+    "lat": 6.17591,
+    "lon": -75.59174,
+    "selectable": false
+  },
+  {
+    "name": "Entrerríos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3462,
+    "lat": 6.5654,
+    "lon": -75.5169,
+    "selectable": false
+  },
+  {
+    "name": "El Zulia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 13521,
+    "lat": 7.93248,
+    "lon": -72.60125,
+    "selectable": false
+  },
+  {
+    "name": "El Tambo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 6355,
+    "lat": 2.45199,
+    "lon": -76.81029,
+    "selectable": false
+  },
+  {
+    "name": "El Tambo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 7279,
+    "lat": 1.41814,
+    "lon": -77.39678,
+    "selectable": false
+  },
+  {
+    "name": "El Tablón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2373,
+    "lat": 1.43188,
+    "lon": -77.09664,
+    "selectable": false
+  },
+  {
+    "name": "El Rosario",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2607,
+    "lat": 1.74173,
+    "lon": -77.3352,
+    "selectable": false
+  },
+  {
+    "name": "El Rosal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 5552,
+    "lat": 4.85314,
+    "lon": -74.25996,
+    "selectable": false
+  },
+  {
+    "name": "El Roble",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 3324,
+    "lat": 9.10194,
+    "lon": -75.19508,
+    "selectable": false
+  },
+  {
+    "name": "El Retén",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 15901,
+    "lat": 10.61135,
+    "lon": -74.26824,
+    "selectable": false
+  },
+  {
+    "name": "El Piñón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 7481,
+    "lat": 10.40283,
+    "lon": -74.82415,
+    "selectable": false
+  },
+  {
+    "name": "El Peñón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 4204,
+    "lat": 8.98916,
+    "lon": -73.94857,
+    "selectable": false
+  },
+  {
+    "name": "El Peñol",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2294,
+    "lat": 1.45987,
+    "lon": -77.44544,
+    "selectable": false
+  },
+  {
+    "name": "El Paujil",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 7618,
+    "lat": 1.57006,
+    "lon": -75.32863,
+    "selectable": false
+  },
+  {
+    "name": "El Paso",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 6367,
+    "lat": 9.66057,
+    "lon": -73.74723,
+    "selectable": false
+  },
+  {
+    "name": "El Molino",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 5265,
+    "lat": 10.65225,
+    "lon": -72.92405,
+    "selectable": false
+  },
+  {
+    "name": "Elías",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 1117,
+    "lat": 2.0117,
+    "lon": -75.93968,
+    "selectable": false
+  },
+  {
+    "name": "El Guamo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 4732,
+    "lat": 10.03155,
+    "lon": -74.97612,
+    "selectable": false
+  },
+  {
+    "name": "El Espino",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1313,
+    "lat": 6.48277,
+    "lon": -72.49718,
+    "selectable": false
+  },
+  {
+    "name": "El Dovio",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 7942,
+    "lat": 4.5079,
+    "lon": -76.23619,
+    "selectable": false
+  },
+  {
+    "name": "El Doncello",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 13082,
+    "lat": 1.67817,
+    "lon": -75.28466,
+    "selectable": false
+  },
+  {
+    "name": "El Copey",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 18136,
+    "lat": 10.15031,
+    "lon": -73.9614,
+    "selectable": false
+  },
+  {
+    "name": "El Cocuy",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2706,
+    "lat": 6.40784,
+    "lon": -72.44464,
+    "selectable": false
+  },
+  {
+    "name": "El Charco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 28673,
+    "lat": 2.47691,
+    "lon": -78.11049,
+    "selectable": false
+  },
+  {
+    "name": "El Cerrito",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 38390,
+    "lat": 3.68549,
+    "lon": -76.31372,
+    "selectable": false
+  },
+  {
+    "name": "El Castillo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 2581,
+    "lat": 3.56363,
+    "lon": -73.79488,
+    "selectable": false
+  },
+  {
+    "name": "El Carmen de Bolívar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 47957,
+    "lat": 9.7174,
+    "lon": -75.12023,
+    "selectable": false
+  },
+  {
+    "name": "El Carmen",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 5286,
+    "lat": 8.51064,
+    "lon": -73.44776,
+    "selectable": false
+  },
+  {
+    "name": "El Carmen",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1602,
+    "lat": 6.69736,
+    "lon": -73.51116,
+    "selectable": false
+  },
+  {
+    "name": "El Carmen",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 2258,
+    "lat": 5.88778,
+    "lon": -75.16417,
+    "selectable": false
+  },
+  {
+    "name": "El Cairo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 3268,
+    "lat": 4.75909,
+    "lon": -76.22226,
+    "selectable": false
+  },
+  {
+    "name": "El Bordo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 12072,
+    "lat": 2.11696,
+    "lon": -76.98214,
+    "selectable": false
+  },
+  {
+    "name": "El Banco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 54522,
+    "lat": 9.00114,
+    "lon": -73.97581,
+    "selectable": false
+  },
+  {
+    "name": "El Bagre",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 40798,
+    "lat": 7.60347,
+    "lon": -74.80951,
+    "selectable": false
+  },
+  {
+    "name": "El Águila",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 2725,
+    "lat": 4.91345,
+    "lon": -76.04004,
+    "selectable": false
+  },
+  {
+    "name": "Ebéjico",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2583,
+    "lat": 6.32598,
+    "lon": -75.76835,
+    "selectable": false
+  },
+  {
+    "name": "Durania",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 3470,
+    "lat": 7.71307,
+    "lon": -72.65759,
+    "selectable": false
+  },
+  {
+    "name": "Duitama",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 92040,
+    "lat": 5.8245,
+    "lon": -73.03408,
+    "selectable": false
+  },
+  {
+    "name": "Dos Quebradas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 179583,
+    "lat": 4.83916,
+    "lon": -75.66726,
+    "selectable": false
+  },
+  {
+    "name": "Don Matías",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 10011,
+    "lat": 6.48568,
+    "lon": -75.39496,
+    "selectable": false
+  },
+  {
+    "name": "Distracción",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 4742,
+    "lat": 10.89693,
+    "lon": -72.8861,
+    "selectable": false
+  },
+  {
+    "name": "Dibulla",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 4402,
+    "lat": 11.27251,
+    "lon": -73.30911,
+    "selectable": false
+  },
+  {
+    "name": "Dagua",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 12320,
+    "lat": 3.65685,
+    "lon": -76.68859,
+    "selectable": false
+  },
+  {
+    "name": "Dabeiba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 11548,
+    "lat": 7.00172,
+    "lon": -76.26722,
+    "selectable": false
+  },
+  {
+    "name": "Curumaní",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 22084,
+    "lat": 9.19992,
+    "lon": -73.54274,
+    "selectable": false
+  },
+  {
+    "name": "Curití",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 3417,
+    "lat": 6.60519,
+    "lon": -73.06809,
+    "selectable": false
+  },
+  {
+    "name": "Cunday",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 2082,
+    "lat": 4.06004,
+    "lon": -74.69212,
+    "selectable": false
+  },
+  {
+    "name": "Cumbitara",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 1091,
+    "lat": 1.65174,
+    "lon": -77.58225,
+    "selectable": false
+  },
+  {
+    "name": "Cumbal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 7529,
+    "lat": 0.90875,
+    "lon": -77.79145,
+    "selectable": false
+  },
+  {
+    "name": "Cumaral",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 11263,
+    "lat": 4.2708,
+    "lon": -73.48669,
+    "selectable": false
+  },
+  {
+    "name": "Cucutilla",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1950,
+    "lat": 7.53941,
+    "lon": -72.77238,
+    "selectable": false
+  },
+  {
+    "name": "Cúcuta",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "21",
+    "population": 721398,
+    "lat": 7.89391,
+    "lon": -72.50782,
+    "selectable": false
+  },
+  {
+    "name": "Cucunubá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1699,
+    "lat": 5.24958,
+    "lon": -73.7661,
+    "selectable": false
+  },
+  {
+    "name": "Cucaita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1417,
+    "lat": 5.54373,
+    "lon": -73.45433,
+    "selectable": false
+  },
+  {
+    "name": "Cubará",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1466,
+    "lat": 7.00078,
+    "lon": -72.10852,
+    "selectable": false
+  },
+  {
+    "name": "Cruces de Anorí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 4762,
+    "lat": 7.18333,
+    "lon": -75.06667,
+    "selectable": false
+  },
+  {
+    "name": "Cravo Norte",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 4787,
+    "lat": 6.30174,
+    "lon": -70.20415,
+    "selectable": false
+  },
+  {
+    "name": "Coyaima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 3893,
+    "lat": 3.79936,
+    "lon": -75.19467,
+    "selectable": false
+  },
+  {
+    "name": "Cotorra",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 4880,
+    "lat": 9.03886,
+    "lon": -75.78969,
+    "selectable": false
+  },
+  {
+    "name": "Cota",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 7615,
+    "lat": 4.80938,
+    "lon": -74.098,
+    "selectable": false
+  },
+  {
+    "name": "Corrales",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1561,
+    "lat": 5.82968,
+    "lon": -72.84332,
+    "selectable": false
+  },
+  {
+    "name": "Corozal",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "27",
+    "population": 39800,
+    "lat": 9.31505,
+    "lon": -75.29283,
+    "selectable": false
+  },
+  {
+    "name": "Coromoro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1010,
+    "lat": 6.29461,
+    "lon": -73.04022,
+    "selectable": false
+  },
+  {
+    "name": "Corinto",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 16579,
+    "lat": 3.17301,
+    "lon": -76.26275,
+    "selectable": false
+  },
+  {
+    "name": "Córdoba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 6597,
+    "lat": 9.58612,
+    "lon": -74.82705,
+    "selectable": false
+  },
+  {
+    "name": "Córdoba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 4063,
+    "lat": 4.39318,
+    "lon": -75.68935,
+    "selectable": false
+  },
+  {
+    "name": "Córdoba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3784,
+    "lat": 0.85905,
+    "lon": -77.5195,
+    "selectable": false
+  },
+  {
+    "name": "Municipio de Copacabana",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 49169,
+    "lat": 6.34633,
+    "lon": -75.50888,
+    "selectable": false
+  },
+  {
+    "name": "Contratación",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 3505,
+    "lat": 6.29005,
+    "lon": -73.47354,
+    "selectable": false
+  },
+  {
+    "name": "Contadero",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 1603,
+    "lat": 0.907,
+    "lon": -77.54729,
+    "selectable": false
+  },
+  {
+    "name": "Consacá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2239,
+    "lat": 1.20805,
+    "lon": -77.46548,
+    "selectable": false
+  },
+  {
+    "name": "Condoto",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 9897,
+    "lat": 5.09351,
+    "lon": -76.64973,
+    "selectable": false
+  },
+  {
+    "name": "Concordia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 6624,
+    "lat": 9.83545,
+    "lon": -74.45548,
+    "selectable": false
+  },
+  {
+    "name": "Concordia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 9324,
+    "lat": 6.04639,
+    "lon": -75.90706,
+    "selectable": false
+  },
+  {
+    "name": "Concepción",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2520,
+    "lat": 6.7662,
+    "lon": -72.694,
+    "selectable": false
+  },
+  {
+    "name": "Concepción",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1513,
+    "lat": 6.39408,
+    "lon": -75.2583,
+    "selectable": false
+  },
+  {
+    "name": "Combita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1034,
+    "lat": 5.63333,
+    "lon": -73.31667,
+    "selectable": false
+  },
+  {
+    "name": "Colosó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 3749,
+    "lat": 9.4915,
+    "lon": -75.36145,
+    "selectable": false
+  },
+  {
+    "name": "Colón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 3269,
+    "lat": 1.19117,
+    "lon": -76.9685,
+    "selectable": false
+  },
+  {
+    "name": "Colombia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 2388,
+    "lat": 3.37606,
+    "lon": -74.8015,
+    "selectable": false
+  },
+  {
+    "name": "Cogua",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4755,
+    "lat": 5.06052,
+    "lon": -73.97925,
+    "selectable": false
+  },
+  {
+    "name": "Cocorná",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5257,
+    "lat": 6.0573,
+    "lon": -75.18524,
+    "selectable": false
+  },
+  {
+    "name": "Clemencia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 8775,
+    "lat": 10.56646,
+    "lon": -75.32499,
+    "selectable": false
+  },
+  {
+    "name": "Cisneros",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 8204,
+    "lat": 6.53833,
+    "lon": -75.08861,
+    "selectable": false
+  },
+  {
+    "name": "Circasia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 20113,
+    "lat": 4.61889,
+    "lon": -75.63583,
+    "selectable": false
+  },
+  {
+    "name": "Cimitarra",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 11267,
+    "lat": 6.31419,
+    "lon": -73.94968,
+    "selectable": false
+  },
+  {
+    "name": "Ciénega",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1172,
+    "lat": 5.40867,
+    "lon": -73.29572,
+    "selectable": false
+  },
+  {
+    "name": "Ciénaga de Oro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 17623,
+    "lat": 8.87443,
+    "lon": -75.62028,
+    "selectable": false
+  },
+  {
+    "name": "Ciénaga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 88311,
+    "lat": 11.00703,
+    "lon": -74.24765,
+    "selectable": false
+  },
+  {
+    "name": "Cicuco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 7662,
+    "lat": 9.26306,
+    "lon": -74.65694,
+    "selectable": false
+  },
+  {
+    "name": "Chocontá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 7592,
+    "lat": 5.14468,
+    "lon": -73.68578,
+    "selectable": false
+  },
+  {
+    "name": "Choachí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4281,
+    "lat": 4.52897,
+    "lon": -73.92273,
+    "selectable": false
+  },
+  {
+    "name": "Chivolo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 11457,
+    "lat": 10.02502,
+    "lon": -74.62279,
+    "selectable": false
+  },
+  {
+    "name": "Chitagá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 3871,
+    "lat": 7.13781,
+    "lon": -72.66456,
+    "selectable": false
+  },
+  {
+    "name": "Chita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 2914,
+    "lat": 6.18715,
+    "lon": -72.4726,
+    "selectable": false
+  },
+  {
+    "name": "Chiscas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1356,
+    "lat": 6.55236,
+    "lon": -72.49976,
+    "selectable": false
+  },
+  {
+    "name": "Chiriguaná",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 15181,
+    "lat": 9.36238,
+    "lon": -73.60314,
+    "selectable": false
+  },
+  {
+    "name": "Chiquinquirá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 45294,
+    "lat": 5.61637,
+    "lon": -73.81748,
+    "selectable": false
+  },
+  {
+    "name": "Chipaque",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2707,
+    "lat": 4.4425,
+    "lon": -74.04417,
+    "selectable": false
+  },
+  {
+    "name": "Chinú",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 19596,
+    "lat": 9.10569,
+    "lon": -75.39812,
+    "selectable": false
+  },
+  {
+    "name": "Chinchiná",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 68512,
+    "lat": 4.9825,
+    "lon": -75.60361,
+    "selectable": false
+  },
+  {
+    "name": "Chinavita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1113,
+    "lat": 5.16723,
+    "lon": -73.36823,
+    "selectable": false
+  },
+  {
+    "name": "Chinácota",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 9667,
+    "lat": 7.60731,
+    "lon": -72.60108,
+    "selectable": false
+  },
+  {
+    "name": "Chimichagua",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 16746,
+    "lat": 9.25778,
+    "lon": -73.81228,
+    "selectable": false
+  },
+  {
+    "name": "Chimá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 2785,
+    "lat": 9.14893,
+    "lon": -75.62841,
+    "selectable": false
+  },
+  {
+    "name": "Chigorodó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 48443,
+    "lat": 7.66638,
+    "lon": -76.68106,
+    "selectable": false
+  },
+  {
+    "name": "Chía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 64569,
+    "lat": 4.85876,
+    "lon": -74.05866,
+    "selectable": false
+  },
+  {
+    "name": "Chaparral",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 19982,
+    "lat": 3.72315,
+    "lon": -75.48316,
+    "selectable": false
+  },
+  {
+    "name": "Chalán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 2897,
+    "lat": 9.54765,
+    "lon": -75.31128,
+    "selectable": false
+  },
+  {
+    "name": "Chaguaní",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1108,
+    "lat": 4.94829,
+    "lon": -74.59392,
+    "selectable": false
+  },
+  {
+    "name": "Chachagüí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 4899,
+    "lat": 1.35943,
+    "lon": -77.28367,
+    "selectable": false
+  },
+  {
+    "name": "Cértegui",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 2854,
+    "lat": 5.37073,
+    "lon": -76.6044,
+    "selectable": false
+  },
+  {
+    "name": "Cerro de San Antonio",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 7057,
+    "lat": 10.32585,
+    "lon": -74.86933,
+    "selectable": false
+  },
+  {
+    "name": "Cerrito",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2435,
+    "lat": 6.84315,
+    "lon": -72.69404,
+    "selectable": false
+  },
+  {
+    "name": "Cerinza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1499,
+    "lat": 5.95568,
+    "lon": -72.94783,
+    "selectable": false
+  },
+  {
+    "name": "Cereté",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 55513,
+    "lat": 8.88479,
+    "lon": -75.79052,
+    "selectable": false
+  },
+  {
+    "name": "Caucasia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 58034,
+    "lat": 7.98654,
+    "lon": -75.19349,
+    "selectable": false
+  },
+  {
+    "name": "Castilla La Nueva",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 1543,
+    "lat": 3.82845,
+    "lon": -73.67987,
+    "selectable": false
+  },
+  {
+    "name": "Casabianca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 1593,
+    "lat": 5.07959,
+    "lon": -75.12059,
+    "selectable": false
+  },
+  {
+    "name": "Cartago",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "29",
+    "population": 134827,
+    "lat": 4.74639,
+    "lon": -75.91167,
+    "selectable": false
+  },
+  {
+    "name": "Cartago",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 1524,
+    "lat": 1.56305,
+    "lon": -77.1176,
+    "selectable": false
+  },
+  {
+    "name": "Cartagena",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "35",
+    "population": 952024,
+    "lat": 10.39972,
+    "lon": -75.51444,
+    "selectable": false
+  },
+  {
+    "name": "Carolina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3160,
+    "lat": 6.72439,
+    "lon": -75.28168,
+    "selectable": false
+  },
+  {
+    "name": "Carmen de Viboral",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 21152,
+    "lat": 6.08236,
+    "lon": -75.33509,
+    "selectable": false
+  },
+  {
+    "name": "Carmen de Carupa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1928,
+    "lat": 5.34862,
+    "lon": -73.90168,
+    "selectable": false
+  },
+  {
+    "name": "Carmen de Apicalá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 5640,
+    "lat": 4.14725,
+    "lon": -74.72014,
+    "selectable": false
+  },
+  {
+    "name": "Carlosama",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2010,
+    "lat": 0.86292,
+    "lon": -77.72734,
+    "selectable": false
+  },
+  {
+    "name": "Caramanta",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3044,
+    "lat": 5.54782,
+    "lon": -75.64368,
+    "selectable": false
+  },
+  {
+    "name": "Caracolí",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "02",
+    "population": 3120,
+    "lat": 6.41194,
+    "lon": -74.76056,
+    "selectable": false
+  },
+  {
+    "name": "Cáqueza",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 7958,
+    "lat": 4.40569,
+    "lon": -73.94683,
+    "selectable": false
+  },
+  {
+    "name": "Capitanejo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 3791,
+    "lat": 6.52881,
+    "lon": -72.69595,
+    "selectable": false
+  },
+  {
+    "name": "Caparrapí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4477,
+    "lat": 5.34644,
+    "lon": -74.49147,
+    "selectable": false
+  },
+  {
+    "name": "Cantagallo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 4672,
+    "lat": 7.37599,
+    "lon": -73.91963,
+    "selectable": false
+  },
+  {
+    "name": "Candelaria",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 11427,
+    "lat": 10.45912,
+    "lon": -74.8797,
+    "selectable": false
+  },
+  {
+    "name": "Candelaria",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 23989,
+    "lat": 3.40671,
+    "lon": -76.34819,
+    "selectable": false
+  },
+  {
+    "name": "Cañasgordas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 6026,
+    "lat": 6.74989,
+    "lon": -76.02539,
+    "selectable": false
+  },
+  {
+    "name": "Campo de la Cruz",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 22803,
+    "lat": 10.37808,
+    "lon": -74.88356,
+    "selectable": false
+  },
+  {
+    "name": "Campoalegre",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 22568,
+    "lat": 2.68489,
+    "lon": -75.32311,
+    "selectable": false
+  },
+  {
+    "name": "Campamento",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1870,
+    "lat": 6.9792,
+    "lon": -75.29724,
+    "selectable": false
+  },
+  {
+    "name": "Caloto",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 6478,
+    "lat": 3.03586,
+    "lon": -76.40788,
+    "selectable": false
+  },
+  {
+    "name": "Cali",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "29",
+    "population": 2392877,
+    "lat": 3.43722,
+    "lon": -76.5225,
+    "selectable": false
+  },
+  {
+    "name": "Caldono",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 3517,
+    "lat": 2.7974,
+    "lon": -76.48316,
+    "selectable": false
+  },
+  {
+    "name": "Caldas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 65565,
+    "lat": 6.09106,
+    "lon": -75.63569,
+    "selectable": false
+  },
+  {
+    "name": "Calarcá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 62170,
+    "lat": 4.52949,
+    "lon": -75.64091,
+    "selectable": false
+  },
+  {
+    "name": "Calamar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 9180,
+    "lat": 10.2511,
+    "lon": -74.91462,
+    "selectable": false
+  },
+  {
+    "name": "Calamar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "14",
+    "population": 3745,
+    "lat": 1.9596,
+    "lon": -72.65315,
+    "selectable": false
+  },
+  {
+    "name": "Cajicá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 24999,
+    "lat": 4.91857,
+    "lon": -74.02799,
+    "selectable": false
+  },
+  {
+    "name": "Cajibío",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 3365,
+    "lat": 2.62271,
+    "lon": -76.57039,
+    "selectable": false
+  },
+  {
+    "name": "Cajamarca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 9309,
+    "lat": 4.44172,
+    "lon": -75.42678,
+    "selectable": false
+  },
+  {
+    "name": "Caimito",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "27",
+    "population": 2925,
+    "lat": 8.81229,
+    "lon": -75.41066,
+    "selectable": false
+  },
+  {
+    "name": "Caicedonia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 32417,
+    "lat": 4.3324,
+    "lon": -75.82665,
+    "selectable": false
+  },
+  {
+    "name": "Caicedo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1617,
+    "lat": 6.40511,
+    "lon": -75.98255,
+    "selectable": false
+  },
+  {
+    "name": "Cácota",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 1415,
+    "lat": 7.26787,
+    "lon": -72.64197,
+    "selectable": false
+  },
+  {
+    "name": "Cáchira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 2097,
+    "lat": 7.74104,
+    "lon": -73.0483,
+    "selectable": false
+  },
+  {
+    "name": "Cachipay",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4260,
+    "lat": 5.26667,
+    "lon": -74.56667,
+    "selectable": false
+  },
+  {
+    "name": "Cáceres",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 4987,
+    "lat": 7.58078,
+    "lon": -75.34842,
+    "selectable": false
+  },
+  {
+    "name": "Cabuyaro",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 1140,
+    "lat": 4.2817,
+    "lon": -72.79399,
+    "selectable": false
+  },
+  {
+    "name": "Cabrera",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1397,
+    "lat": 3.98598,
+    "lon": -74.48283,
+    "selectable": false
+  },
+  {
+    "name": "Bugalagrande",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 12418,
+    "lat": 4.21207,
+    "lon": -76.15564,
+    "selectable": false
+  },
+  {
+    "name": "Buga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 118004,
+    "lat": 3.90089,
+    "lon": -76.29783,
+    "selectable": false
+  },
+  {
+    "name": "Buesaco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 4177,
+    "lat": 1.39017,
+    "lon": -77.15982,
+    "selectable": false
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 2144,
+    "lat": 3.01503,
+    "lon": -76.64275,
+    "selectable": false
+  },
+  {
+    "name": "Buenavista",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 4339,
+    "lat": 9.21433,
+    "lon": -74.31363,
+    "selectable": false
+  },
+  {
+    "name": "Buenavista",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 5062,
+    "lat": 9.04963,
+    "lon": -76.0028,
+    "selectable": false
+  },
+  {
+    "name": "Buenavista",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "23",
+    "population": 2084,
+    "lat": 4.3539,
+    "lon": -75.71782,
+    "selectable": false
+  },
+  {
+    "name": "Buenaventura",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 240387,
+    "lat": 3.8801,
+    "lon": -77.03116,
+    "selectable": false
+  },
+  {
+    "name": "Buenaventura",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 24842,
+    "lat": 3.58333,
+    "lon": -77,
+    "selectable": false
+  },
+  {
+    "name": "Bucaramanga",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "26",
+    "population": 571820,
+    "lat": 7.12539,
+    "lon": -73.1198,
+    "selectable": false
+  },
+  {
+    "name": "Briceño",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2214,
+    "lat": 7.11096,
+    "lon": -75.55152,
+    "selectable": false
+  },
+  {
+    "name": "Bolívar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2230,
+    "lat": 5.98943,
+    "lon": -73.77021,
+    "selectable": false
+  },
+  {
+    "name": "Bolívar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 4165,
+    "lat": 4.3387,
+    "lon": -76.18342,
+    "selectable": false
+  },
+  {
+    "name": "Bojacá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4399,
+    "lat": 4.73176,
+    "lon": -74.34129,
+    "selectable": false
+  },
+  {
+    "name": "Bogotá",
+    "country": "CO",
+    "featureCode": "PPLC",
+    "adminCode": "34",
+    "population": 7674366,
+    "lat": 4.60971,
+    "lon": -74.08175,
+    "selectable": false
+  },
+  {
+    "name": "Bochalema",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 2511,
+    "lat": 7.61096,
+    "lon": -72.64774,
+    "selectable": false
+  },
+  {
+    "name": "Boavita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 3749,
+    "lat": 6.33031,
+    "lon": -72.58505,
+    "selectable": false
+  },
+  {
+    "name": "Betulia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1716,
+    "lat": 6.90069,
+    "lon": -73.28347,
+    "selectable": false
+  },
+  {
+    "name": "Betulia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5216,
+    "lat": 6.11284,
+    "lon": -75.98378,
+    "selectable": false
+  },
+  {
+    "name": "Betania",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3800,
+    "lat": 5.746,
+    "lon": -75.97765,
+    "selectable": false
+  },
+  {
+    "name": "Arboleda",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 1736,
+    "lat": 1.49766,
+    "lon": -77.13587,
+    "selectable": false
+  },
+  {
+    "name": "Belmira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1388,
+    "lat": 6.60508,
+    "lon": -75.66619,
+    "selectable": false
+  },
+  {
+    "name": "Bello",
+    "country": "CO",
+    "featureCode": "PPLA3",
+    "adminCode": "02",
+    "population": 392939,
+    "lat": 6.33732,
+    "lon": -75.55795,
+    "selectable": false
+  },
+  {
+    "name": "Belén de Umbría",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 15698,
+    "lat": 5.20088,
+    "lon": -75.86865,
+    "selectable": false
+  },
+  {
+    "name": "Belén de los Andaquíes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 3937,
+    "lat": 1.41828,
+    "lon": -75.87754,
+    "selectable": false
+  },
+  {
+    "name": "Belén",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 5411,
+    "lat": 5.98892,
+    "lon": -72.91254,
+    "selectable": false
+  },
+  {
+    "name": "Belén",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3131,
+    "lat": 1.59787,
+    "lon": -77.01399,
+    "selectable": false
+  },
+  {
+    "name": "Belalcázar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 6367,
+    "lat": 4.99528,
+    "lon": -75.81278,
+    "selectable": false
+  },
+  {
+    "name": "Becerril",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 9002,
+    "lat": 9.70413,
+    "lon": -73.2793,
+    "selectable": false
+  },
+  {
+    "name": "Barranquilla",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "04",
+    "population": 1380425,
+    "lat": 10.96854,
+    "lon": -74.78132,
+    "selectable": false
+  },
+  {
+    "name": "Barranco de Loba",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 5933,
+    "lat": 8.94597,
+    "lon": -74.10647,
+    "selectable": false
+  },
+  {
+    "name": "Barrancas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 17350,
+    "lat": 10.95756,
+    "lon": -72.78769,
+    "selectable": false
+  },
+  {
+    "name": "Barranca de Upía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 1177,
+    "lat": 4.56963,
+    "lon": -72.96676,
+    "selectable": false
+  },
+  {
+    "name": "Barrancabermeja",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 191403,
+    "lat": 7.06528,
+    "lon": -73.85472,
+    "selectable": false
+  },
+  {
+    "name": "Barichara",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 4149,
+    "lat": 6.63572,
+    "lon": -73.22282,
+    "selectable": false
+  },
+  {
+    "name": "Barbosa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 16707,
+    "lat": 6.43809,
+    "lon": -75.33136,
+    "selectable": false
+  },
+  {
+    "name": "Barbosa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 20372,
+    "lat": 5.93168,
+    "lon": -73.61506,
+    "selectable": false
+  },
+  {
+    "name": "Barbacoas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 7633,
+    "lat": 1.67154,
+    "lon": -78.13978,
+    "selectable": false
+  },
+  {
+    "name": "Baraya",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 4402,
+    "lat": 3.15333,
+    "lon": -75.05306,
+    "selectable": false
+  },
+  {
+    "name": "Baranoa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 44078,
+    "lat": 10.79408,
+    "lon": -74.9164,
+    "selectable": false
+  },
+  {
+    "name": "Balboa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 2302,
+    "lat": 4.95167,
+    "lon": -75.95722,
+    "selectable": false
+  },
+  {
+    "name": "Balboa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 6272,
+    "lat": 2.03956,
+    "lon": -77.21684,
+    "selectable": false
+  },
+  {
+    "name": "Mutis",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 3079,
+    "lat": 6.22622,
+    "lon": -77.40439,
+    "selectable": false
+  },
+  {
+    "name": "Bagadó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 4561,
+    "lat": 5.41164,
+    "lon": -76.4152,
+    "selectable": false
+  },
+  {
+    "name": "Ayapel",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 22602,
+    "lat": 8.31372,
+    "lon": -75.13982,
+    "selectable": false
+  },
+  {
+    "name": "Ataco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 4105,
+    "lat": 3.59147,
+    "lon": -75.38178,
+    "selectable": false
+  },
+  {
+    "name": "Astrea",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 8995,
+    "lat": 9.49828,
+    "lon": -73.97591,
+    "selectable": false
+  },
+  {
+    "name": "Arroyohondo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 3622,
+    "lat": 10.2522,
+    "lon": -75.0198,
+    "selectable": false
+  },
+  {
+    "name": "Guayabal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 5339,
+    "lat": 5.03103,
+    "lon": -74.88682,
+    "selectable": false
+  },
+  {
+    "name": "Armenia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2035,
+    "lat": 6.15639,
+    "lon": -75.78722,
+    "selectable": false
+  },
+  {
+    "name": "Armenia",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "23",
+    "population": 315328,
+    "lat": 4.53389,
+    "lon": -75.68111,
+    "selectable": false
+  },
+  {
+    "name": "Arjona",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 50405,
+    "lat": 10.25444,
+    "lon": -75.34389,
+    "selectable": false
+  },
+  {
+    "name": "Ariguaní",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 26246,
+    "lat": 10.25,
+    "lon": -74,
+    "selectable": false
+  },
+  {
+    "name": "Argelia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3474,
+    "lat": 5.73127,
+    "lon": -75.14257,
+    "selectable": false
+  },
+  {
+    "name": "Argelia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 3418,
+    "lat": 4.72342,
+    "lon": -76.11909,
+    "selectable": false
+  },
+  {
+    "name": "Argelia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 4262,
+    "lat": 2.25563,
+    "lon": -77.24876,
+    "selectable": false
+  },
+  {
+    "name": "Arenal",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 5346,
+    "lat": 8.45928,
+    "lon": -73.94331,
+    "selectable": false
+  },
+  {
+    "name": "Arcabuco",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1564,
+    "lat": 5.75463,
+    "lon": -73.43669,
+    "selectable": false
+  },
+  {
+    "name": "Arboletes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 8380,
+    "lat": 8.85051,
+    "lon": -76.42694,
+    "selectable": false
+  },
+  {
+    "name": "Arboledas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 2702,
+    "lat": 7.64233,
+    "lon": -72.79944,
+    "selectable": false
+  },
+  {
+    "name": "Arbeláez",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 5252,
+    "lat": 4.27254,
+    "lon": -74.41513,
+    "selectable": false
+  },
+  {
+    "name": "Arauquita",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 9950,
+    "lat": 7.02917,
+    "lon": -71.42806,
+    "selectable": false
+  },
+  {
+    "name": "Arauca",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "03",
+    "population": 69264,
+    "lat": 7.08471,
+    "lon": -70.75908,
+    "selectable": false
+  },
+  {
+    "name": "Aratoca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 2101,
+    "lat": 6.69353,
+    "lon": -73.02083,
+    "selectable": false
+  },
+  {
+    "name": "Aranzazu",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 9327,
+    "lat": 5.27123,
+    "lon": -75.49044,
+    "selectable": false
+  },
+  {
+    "name": "Aracataca",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 27704,
+    "lat": 10.59181,
+    "lon": -74.18983,
+    "selectable": false
+  },
+  {
+    "name": "Aquitania",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 5718,
+    "lat": 5.51972,
+    "lon": -72.8875,
+    "selectable": false
+  },
+  {
+    "name": "Apía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 6940,
+    "lat": 5.10645,
+    "lon": -75.94318,
+    "selectable": false
+  },
+  {
+    "name": "Apartadó",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "02",
+    "population": 86438,
+    "lat": 7.88299,
+    "lon": -76.62587,
+    "selectable": false
+  },
+  {
+    "name": "Anzoátegui",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 2229,
+    "lat": 4.62996,
+    "lon": -75.09539,
+    "selectable": false
+  },
+  {
+    "name": "Antioquia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 11829,
+    "lat": 6.55687,
+    "lon": -75.82806,
+    "selectable": false
+  },
+  {
+    "name": "Ansermanuevo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 12332,
+    "lat": 4.79722,
+    "lon": -75.995,
+    "selectable": false
+  },
+  {
+    "name": "Anserma",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "24",
+    "population": 25242,
+    "lat": 5.33278,
+    "lon": -75.79111,
+    "selectable": false
+  },
+  {
+    "name": "Anolaima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 5585,
+    "lat": 4.83362,
+    "lon": -74.4995,
+    "selectable": false
+  },
+  {
+    "name": "Angostura",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3639,
+    "lat": 6.88508,
+    "lon": -75.33467,
+    "selectable": false
+  },
+  {
+    "name": "Angelópolis",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1917,
+    "lat": 6.11072,
+    "lon": -75.70923,
+    "selectable": false
+  },
+  {
+    "name": "Los Andes",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 16419,
+    "lat": 5.6561,
+    "lon": -75.87877,
+    "selectable": false
+  },
+  {
+    "name": "Andalucía",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 17432,
+    "lat": 4.17061,
+    "lon": -76.16641,
+    "selectable": false
+  },
+  {
+    "name": "Ancuya",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 5852,
+    "lat": 1.2633,
+    "lon": -77.51376,
+    "selectable": false
+  },
+  {
+    "name": "Anapoima",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4953,
+    "lat": 4.52028,
+    "lon": -74.53944,
+    "selectable": false
+  },
+  {
+    "name": "Ambalema",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 4892,
+    "lat": 4.78405,
+    "lon": -74.76268,
+    "selectable": false
+  },
+  {
+    "name": "Amalfi",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 9733,
+    "lat": 6.91016,
+    "lon": -75.07764,
+    "selectable": false
+  },
+  {
+    "name": "Amagá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 12170,
+    "lat": 6.04001,
+    "lon": -75.70315,
+    "selectable": false
+  },
+  {
+    "name": "Alvarado",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "28",
+    "population": 2049,
+    "lat": 4.56612,
+    "lon": -74.96229,
+    "selectable": false
+  },
+  {
+    "name": "Altamira",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 2123,
+    "lat": 2.06278,
+    "lon": -75.78722,
+    "selectable": false
+  },
+  {
+    "name": "Almaguer",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 3120,
+    "lat": 1.917,
+    "lon": -76.85233,
+    "selectable": false
+  },
+  {
+    "name": "Algeciras",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 10792,
+    "lat": 2.52295,
+    "lon": -75.31492,
+    "selectable": false
+  },
+  {
+    "name": "Algarrobo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 10042,
+    "lat": 10.18694,
+    "lon": -74.57528,
+    "selectable": false
+  },
+  {
+    "name": "Aldana",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 1956,
+    "lat": 0.88283,
+    "lon": -77.70103,
+    "selectable": false
+  },
+  {
+    "name": "Alcalá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 9135,
+    "lat": 4.67472,
+    "lon": -75.7825,
+    "selectable": false
+  },
+  {
+    "name": "Albania",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "17",
+    "population": 6364,
+    "lat": 11.16099,
+    "lon": -72.59238,
+    "selectable": false
+  },
+  {
+    "name": "Albania",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 4160,
+    "lat": 1.32866,
+    "lon": -75.87824,
+    "selectable": false
+  },
+  {
+    "name": "Albán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1684,
+    "lat": 4.87661,
+    "lon": -74.43768,
+    "selectable": false
+  },
+  {
+    "name": "Aipe",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 7964,
+    "lat": 3.22222,
+    "lon": -75.23667,
+    "selectable": false
+  },
+  {
+    "name": "Aguazul",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 15669,
+    "lat": 5.17282,
+    "lon": -72.54706,
+    "selectable": false
+  },
+  {
+    "name": "Agua de Dios",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 10875,
+    "lat": 4.37648,
+    "lon": -74.66995,
+    "selectable": false
+  },
+  {
+    "name": "Aguadas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "37",
+    "population": 19727,
+    "lat": 5.61161,
+    "lon": -75.45624,
+    "selectable": false
+  },
+  {
+    "name": "Aguachica",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 73360,
+    "lat": 8.30844,
+    "lon": -73.6166,
+    "selectable": false
+  },
+  {
+    "name": "Agrado",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 4530,
+    "lat": 2.25725,
+    "lon": -75.77142,
+    "selectable": false
+  },
+  {
+    "name": "Achí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 8434,
+    "lat": 8.56818,
+    "lon": -74.55405,
+    "selectable": false
+  },
+  {
+    "name": "Acevedo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 4451,
+    "lat": 1.83606,
+    "lon": -75.85498,
+    "selectable": false
+  },
+  {
+    "name": "Acandí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 4840,
+    "lat": 8.50633,
+    "lon": -77.27784,
+    "selectable": false
+  },
+  {
+    "name": "Acacías",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 40627,
+    "lat": 3.98695,
+    "lon": -73.75797,
+    "selectable": false
+  },
+  {
+    "name": "Abriaquí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1281,
+    "lat": 6.63148,
+    "lon": -76.06444,
+    "selectable": false
+  },
+  {
+    "name": "Ábrego",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 10822,
+    "lat": 8.08065,
+    "lon": -73.22054,
+    "selectable": false
+  },
+  {
+    "name": "Abejorral",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7360,
+    "lat": 5.78928,
+    "lon": -75.42725,
+    "selectable": false
+  },
+  {
+    "name": "Los Santos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 1310,
+    "lat": 7.17,
+    "lon": -73.09306,
+    "selectable": false
+  },
+  {
+    "name": "Lejanías",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 5157,
+    "lat": 3.5251,
+    "lon": -74.02156,
+    "selectable": false
+  },
+  {
+    "name": "El Dorado",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 1011,
+    "lat": 2.77411,
+    "lon": -72.86834,
+    "selectable": false
+  },
+  {
+    "name": "Curillo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 9539,
+    "lat": 1.03327,
+    "lon": -75.91906,
+    "selectable": false
+  },
+  {
+    "name": "Santacruz",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 2469,
+    "lat": 1.5209,
+    "lon": -77.26206,
+    "selectable": false
+  },
+  {
+    "name": "El Tarra",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "21",
+    "population": 3336,
+    "lat": 8.57562,
+    "lon": -73.09489,
+    "selectable": false
+  },
+  {
+    "name": "Mesetas",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 4163,
+    "lat": 3.38464,
+    "lon": -74.04424,
+    "selectable": false
+  },
+  {
+    "name": "Bellavista",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 1396,
+    "lat": 6.5213,
+    "lon": -76.97234,
+    "selectable": false
+  },
+  {
+    "name": "Chivor",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1622,
+    "lat": 4.88556,
+    "lon": -73.36889,
+    "selectable": false
+  },
+  {
+    "name": "Monterrey",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 7759,
+    "lat": 4.87206,
+    "lon": -72.89879,
+    "selectable": false
+  },
+  {
+    "name": "Paratebueno",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 2027,
+    "lat": 4.37575,
+    "lon": -73.21547,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Gaitán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 5928,
+    "lat": 4.31328,
+    "lon": -72.08157,
+    "selectable": false
+  },
+  {
+    "name": "Sabanalarga",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "32",
+    "population": 1419,
+    "lat": 4.8543,
+    "lon": -73.04003,
+    "selectable": false
+  },
+  {
+    "name": "San Luis",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 6448,
+    "lat": 6.04167,
+    "lon": -74.99278,
+    "selectable": false
+  },
+  {
+    "name": "Morales",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 29617,
+    "lat": 2.75701,
+    "lon": -76.61723,
+    "selectable": false
+  },
+  {
+    "name": "Villa Rica",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "09",
+    "population": 9070,
+    "lat": 2.50949,
+    "lon": -76.84418,
+    "selectable": false
+  },
+  {
+    "name": "Quípama",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 3571,
+    "lat": 5.5194,
+    "lon": -74.17765,
+    "selectable": false
+  },
+  {
+    "name": "La Cumbre",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "29",
+    "population": 2432,
+    "lat": 3.7225,
+    "lon": -76.02083,
+    "selectable": false
+  },
+  {
+    "name": "Canalete",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "12",
+    "population": 2620,
+    "lat": 8.67611,
+    "lon": -76.20417,
+    "selectable": false
+  },
+  {
+    "name": "Fredonia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 8950,
+    "lat": 5.92583,
+    "lon": -75.67056,
+    "selectable": false
+  },
+  {
+    "name": "Gachetá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 4088,
+    "lat": 4.81854,
+    "lon": -73.63659,
+    "selectable": false
+  },
+  {
+    "name": "San Carlos",
+    "country": "CO",
+    "featureCode": "PPLL",
+    "adminCode": "12",
+    "population": 3447,
+    "lat": 8.74372,
+    "lon": -75.71331,
+    "selectable": false
+  },
+  {
+    "name": "San Andrés",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3154,
+    "lat": 6.90333,
+    "lon": -75.6825,
+    "selectable": false
+  },
+  {
+    "name": "Buriticá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2388,
+    "lat": 6.71873,
+    "lon": -75.90734,
+    "selectable": false
+  },
+  {
+    "name": "Carepa",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 20627,
+    "lat": 7.75849,
+    "lon": -76.65254,
+    "selectable": false
+  },
+  {
+    "name": "Ciudad Bolívar",
+    "country": "CO",
+    "featureCode": "PPLA2",
+    "adminCode": "02",
+    "population": 16225,
+    "lat": 5.85389,
+    "lon": -76.02528,
+    "selectable": false
+  },
+  {
+    "name": "Vegachí",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 9618,
+    "lat": 6.76141,
+    "lon": -74.79473,
+    "selectable": false
+  },
+  {
+    "name": "Altos del Rosario",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 5220,
+    "lat": 8.79444,
+    "lon": -74.16583,
+    "selectable": false
+  },
+  {
+    "name": "Santa Rosa del Sur",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 8904,
+    "lat": 7.96444,
+    "lon": -74.05444,
+    "selectable": false
+  },
+  {
+    "name": "Tiquisio",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "35",
+    "population": 4255,
+    "lat": 8.55972,
+    "lon": -74.26694,
+    "selectable": false
+  },
+  {
+    "name": "Cartagena del Chairá",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "08",
+    "population": 7586,
+    "lat": 1.33488,
+    "lon": -74.84289,
+    "selectable": false
+  },
+  {
+    "name": "Agustín Codazzi",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 51478,
+    "lat": 10.03672,
+    "lon": -73.23558,
+    "selectable": false
+  },
+  {
+    "name": "Manaure Balcón del Cesar",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 7953,
+    "lat": 10.39278,
+    "lon": -73.0325,
+    "selectable": false
+  },
+  {
+    "name": "San Martín",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "10",
+    "population": 7029,
+    "lat": 8.00151,
+    "lon": -73.51126,
+    "selectable": false
+  },
+  {
+    "name": "El Cantón de San Pablo",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 3271,
+    "lat": 5.33889,
+    "lon": -76.73139,
+    "selectable": false
+  },
+  {
+    "name": "El Retorno",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "14",
+    "population": 3362,
+    "lat": 2.33022,
+    "lon": -72.62765,
+    "selectable": false
+  },
+  {
+    "name": "Isnos",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 5185,
+    "lat": 1.93556,
+    "lon": -76.24056,
+    "selectable": false
+  },
+  {
+    "name": "Plato",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "38",
+    "population": 48606,
+    "lat": 9.79029,
+    "lon": -74.78244,
+    "selectable": false
+  },
+  {
+    "name": "Mapiripán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 1993,
+    "lat": 2.89116,
+    "lon": -72.13328,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Concordia",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 4313,
+    "lat": 2.62206,
+    "lon": -72.75724,
+    "selectable": false
+  },
+  {
+    "name": "La Tola",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "20",
+    "population": 3769,
+    "lat": 2.41083,
+    "lon": -78.24278,
+    "selectable": false
+  },
+  {
+    "name": "Puerto Guzmán",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 4094,
+    "lat": 0.97028,
+    "lon": -76.58583,
+    "selectable": false
+  },
+  {
+    "name": "El Playón",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "26",
+    "population": 5334,
+    "lat": 7.47131,
+    "lon": -73.2031,
+    "selectable": false
+  },
+  {
+    "name": "San Antonio del Tequendama",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1577,
+    "lat": 4.61889,
+    "lon": -74.35389,
+    "selectable": false
+  },
+  {
+    "name": "Tibacuy",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "33",
+    "population": 1028,
+    "lat": 4.35111,
+    "lon": -72.45639,
+    "selectable": false
+  },
+  {
+    "name": "Santa Genoveva de Docorodó",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "11",
+    "population": 1448,
+    "lat": 4.25875,
+    "lon": -77.36516,
+    "selectable": false
+  },
+  {
+    "name": "La Argentina",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "16",
+    "population": 3082,
+    "lat": 2.19611,
+    "lon": -75.98,
+    "selectable": false
+  },
+  {
+    "name": "La Macarena",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "19",
+    "population": 3466,
+    "lat": 2.18367,
+    "lon": -73.78485,
+    "selectable": false
+  },
+  {
+    "name": "Valle del Guamuez",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 9969,
+    "lat": 0.4525,
+    "lon": -76.91917,
+    "selectable": false
+  },
+  {
+    "name": "San José del Guaviare",
+    "country": "CO",
+    "featureCode": "PPLA",
+    "adminCode": "14",
+    "population": 22136,
+    "lat": 2.57286,
+    "lon": -72.64591,
+    "selectable": false
+  },
+  {
+    "name": "Orito",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "22",
+    "population": 13708,
+    "lat": 0.67656,
+    "lon": -76.87712,
+    "selectable": false
+  },
+  {
+    "name": "Cubará",
+    "country": "CO",
+    "featureCode": "PPL",
+    "adminCode": "36",
+    "population": 1466,
+    "lat": 6.99889,
+    "lon": -72.10917,
+    "selectable": false
+  }
+]

@@ -1,0 +1,120 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clickable="true"
+    tools:context="co.com.lafemmeapp.lafemmeapp.presentation.select_specialist_time.SelectSpecialistTimeFragment">
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/iv_specialist_user_avatar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_person"
+        app:civ_border_width="0dp" />
+
+    <TextView
+        android:id="@+id/tv_specialist_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_specialist_user_avatar"
+        android:gravity="center"
+        android:text="name"
+        android:textColor="@color/blueGrey"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_specialist_aditional_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_specialist_name"
+        android:gravity="center"
+        android:text="Información adicional"
+        android:textColor="@color/brownishGrey"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:id="@+id/ly_current_date_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_specialist_aditional_info"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorAccent"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/tv_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.9"
+            android:gravity="center"
+            android:text="07 AGOSTO 2017"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/iv_calendar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.1"
+            android:src="@drawable/ic_calendar" />
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_times"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_next_select_specialist_time"
+        android:layout_below="@+id/ly_current_date_container"
+        tools:listitem="@layout/time_item_view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="40dp"
+        android:id="@+id/ly_no_time"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/ly_current_date_container"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/sorry_label"
+            android:textColor="@color/warmGrey"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/try_another_date_label"
+            android:textColor="@color/warmGrey"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_next_select_specialist_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/main_button_disable_rounded_background"
+        android:enabled="false"
+        android:padding="8dp"
+        android:text="@string/next_label"
+        android:textColor="@color/white" />
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/watermelon</color>
+    <color name="colorPrimaryDark">#F5474B</color>
+    <color name="colorAccent">@color/ligthBlueGrey</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="pinkishGrey">#c7c7c7</color>
+    <color name="greyish">#b2b2b2</color>
+    <color name="greyishBrown">#4e4e4e</color>
+    <color name="warmGrey">#9c9c9c</color>
+    <color name="warmPink">#ff5b7b</color>
+    <color name="pinkishGreyTwo">#bababa</color>
+    <color name="dodgerBlue">#4083ff</color>
+    <color name="silver">#D1D3D3</color>
+    <color name="brownishGrey">#636363</color>
+    <color name="btn_sos_color">#5ECDCF</color>
+    <color name="watermelon">#F5475D</color>
+    <color name="darkGrey">#2A3033</color>
+    <color name="ligthBlueGrey">#B7B6E0</color>
+    <color name="blueGrey">#8B8ABC</color>
+    <color name="greyishBrownTwo">#3D3D3D</color>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/session_group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/profile"
+            android:checkable="false"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/profile_label" />
+
+        <item
+            android:id="@+id/home"
+            android:checkable="false"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home_label" />
+
+        <item
+            android:id="@+id/appointments_history"
+            android:checkable="false"
+            android:icon="@drawable/ic_appoitments_history"
+            android:title="@string/history_label" />
+
+        <item
+            android:id="@+id/log_out"
+            android:checkable="false"
+            android:icon="@drawable/ic_log_out"
+            android:title="@string/log_out_label" />
+
+    </group>
+
+
+</menu>

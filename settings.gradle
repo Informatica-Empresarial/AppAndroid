@@ -1,0 +1,1 @@
+include ':app', ':core', ':dataprovider', ':providers', ':utilities'

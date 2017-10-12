@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "30895832196",
+    "firebase_url": "https://la-femme.firebaseio.com",
+    "project_id": "la-femme",
+    "storage_bucket": "la-femme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30895832196:android:f9611a7025db1080",
+        "android_client_info": {
+          "package_name": "co.com.lafemmeapp.lafemmeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30895832196-oqe0178l8hvkutg8cvnfb0l8n91ql4sk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "30895832196-2r2lvgp5cpklps5qsgp192ik12esindi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.lafemmeapp.lafemmeapp",
+            "certificate_hash": "1b57566ee3918e0389311a682d47974d103c9dbf"
+          }
+        },
+        {
+          "client_id": "30895832196-g2dr5f72f8a3tlim863of0cmqncgrkc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.lafemmeapp.lafemmeapp",
+            "certificate_hash": "d45ef58bcab78b559fef59cf60156457bcd499dc"
+          }
+        },
+        {
+          "client_id": "30895832196-ngcar0pl1u16d5k0jj4lcmvo2s4e3pau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzt92IGh82P-0Ufxd01m1FMv3yavGqYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30895832196-oqe0178l8hvkutg8cvnfb0l8n91ql4sk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30895832196-k9go1aoa4gi95m6tutjtuu8pub47jiof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "DKH.LAFEMME"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30895832196:android:14ffbd0dc69d378b",
+        "android_client_info": {
+          "package_name": "co.com.lafemmeapp.release"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30895832196-oqe0178l8hvkutg8cvnfb0l8n91ql4sk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "30895832196-ngcar0pl1u16d5k0jj4lcmvo2s4e3pau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzt92IGh82P-0Ufxd01m1FMv3yavGqYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

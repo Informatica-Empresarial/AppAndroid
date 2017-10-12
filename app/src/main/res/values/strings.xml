@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">LaFemmeApp</string>
+    <string name="facebook_app_id" translatable="false">195260424314919</string>
+    <string name="title_activity_main" translatable="false">La femme</string>
+    <string name="title_activity_on_boarding" translatable="false">OnBoardingActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up_label">Registrar</string>
+    <string name="skip_label">Saltar</string>
+    <string name="lorem_test" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non tincidunt justo. Aliquam nibh sem, varius venenatis sapien eu, viverra fermentum quam.</string>
+    <string name="title_activity_dashboard" translatable="false">DashboardActivity</string>
+    <string name="brand_fragment_main_text">Reserva tu cita <br>ahora mismo</br></string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="schedule_label">Reservar</string>
+    <string name="sos_label">Servicio Inmediato - SOS</string>
+    <string name="fragment_services_title">Elige tus servicios</string>
+    <string name="next_label">Continuar</string>
+    <string name="minus_symbol" translatable="false">-</string>
+    <string name="plus_symbol" translatable="false">+</string>
+    <string name="zero_symbol" translatable="false">0</string>
+    <string name="address">Digita tu dirección</string>
+    <string name="marker_snippet">¿Estas aquí?</string>
+    <string name="registry_btn_name">Registrarse</string>
+    <string name="et_city">Ciudad</string>
+    <string name="et_address_label">Dirección</string>
+    <string name="et_pwd_confirm_label">Confirmar</string>
+    <string name="et_pwd_label">Contraseña</string>
+    <string name="et_phone_label">Teléfono</string>
+    <string name="et_email_label" translatable="false">Email</string>
+    <string name="et_last_name_label">Apellido</string>
+    <string name="et_name_label">Nombre</string>
+    <string name="title_activity_base" translatable="false">BaseActivity</string>
+    <string name="btn_fb_label">Continue con Facebook</string>
+    <string name="choose_specialist_label">Elige un especialista</string>
+    <string name="random_specialist_label">Especialista random</string>
+    <string name="head_registry_txt">Crea una cuenta nueva</string>
+    <string name="first_terms_label">Al registrarte aceptas los </string>
+    <string name="second_terms_label">Términos y condiciones</string>
+    <string name="login_label">Entrar</string>
+    <string name="login_header_txt">Bienvenid@</string>
+    <string name="contextual_info_other_logins">O entra usando</string>
+    <string name="forgot_pwd_label">Olvide mi contraseña</string>
+    <string name="no_internet_connection_label">No Internet Connection</string>
+    <string name="accept_label">Aceptar</string>
+    <string name="splash_title" translatable="false">La femme</string>
+    <string name="profile_label">Perfíl</string>
+    <string name="home_label">Home</string>
+    <string name="log_in_label">Iniciar Sesion</string>
+    <string name="register_label">Registrar</string>
+    <string name="history_label">Historial</string>
+    <string name="log_out_label">Salir</string>
+    <string name="service_label">Servicios:</string>
+    <string name="address_label">Direccion:</string>
+    <string name="specialist_label">Especialista:</string>
+    <string name="customer_label">Cliente:</string>
+    <string name="voucher_header_1_label">Gracias por elegir La femme</string>
+    <string name="voucher_header2_label">Esta es la información de tu servicio</string>
+    <string name="service_label2">Servicio</string>
+    <string name="date_label">Fecha:</string>
+    <string name="time_label">Hora</string>
+    <string name="total_label">Total:</string>
+    <string name="cancel_label">Cancelar</string>
+    <string name="ongoing_label">Pedientes</string>
+    <string name="completed_label">Completados</string>
+    <string name="thanks_for_choose_la_femme_label">Gracias por elegir La femme</string>
+    <string name="our_specialist_label">Nuestra especialista</string>
+    <string name="history_detail_specialist_phone_number_label">Télefono</string>
+    <string name="history_detail_cancel_appointment">Cancelar servicio</string>
+    <string name="sorry_label">Lo sentimos</string>
+    <string name="try_another_date_label">Nuestra especialista tiene el día de hoy ocupado por favor intenta en otra fecha</string>
+    <string name="sos_availability_label">Disponibilidad SOS</string>
+    <string name="save">Guardar</string>
+    <string name="logout_text">Cerrar sesión</string>
+    <string name="sos_error_notification_message">Ha ocurrido un error con el modo SOS por favor intenta de nuevo</string>
+    <string name="sos_notification_title" translatable="false">SOS</string>
+    <string name="sos_time_out_message">Han pasado mas de 30 minutos desde que activaste el modo SOS, si deseas,
+    seguir en este modo activalo de nuevo por favor</string>
+    <string name="rate_service_label">Califica la calidad del servicio</string>
+    <string name="one_start_description">Terrible</string>
+    <string name="two_starts_description">Malo</string>
+    <string name="three_starts_description" translatable="false">OK</string>
+    <string name="four_starts_description">Bueno</string>
+    <string name="five_starts_description">Excelente</string>
+    <string name="professionalism_label">Profecionalismo</string>
+    <string name="technique_label">Técnica</string>
+    <string name="agilidadagility_label">Agilidad</string>
+    <string name="amiability_label">Amabilidad</string>
+    <string name="to_improve_label">Lo que prodria mejorarse</string>
+    <string name="show_address_label">Navegar con</string>
+    <string name="voucher_terms_txt" translatable="false"><b>Términos y condiciones:</b> at this location only. with any other offer or discount promotion. One voucher</string>
+    <string name="init_service_label">Iniciar servicio</string>
+    <string name="finish_service_label">Finalizar Servicio</string>
+    <string name="tos_url" translatable="false">http://studio.lafemme.com.co/TOS</string>
+    <string name="password_reset_label">Recuperar Contraseña</string>
+    <string name="reset_password_message">Ingresa tu email</string>
+    <string name="login_title_label">Inicio de Sesion</string>
+    <string name="registry_label">Registro</string>
+    <string name="there_are_not_specialist_for_the_request_services_error_label" translatable="false">Lo sentimos no hay especialistas disponibles para los servicios solicitados en este momento</string>
+    <string name="onboarding_first_text">Reserva tu cita con tiempo o elige SOS para un servicio urgente</string>
+    <string name="onboarding_second_text">Agende el servicio deseado con una profesional en pocos pasos</string>
+    <string name="onboarding_third_text">Encuentra las mejores profesionales para cuidar de sus manos y pies</string>
+    <string name="select_city_label">Para qué ciudad deseas tu servicio?</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+    <string name="select_city_title">Ciudad del Servicio</string>
+
+</resources>
